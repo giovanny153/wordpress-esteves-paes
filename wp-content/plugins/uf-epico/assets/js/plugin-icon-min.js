@@ -1,0 +1,1 @@
+!function($){"use strict";$(function(){var i=ufEpico.pluginsUrl,n=ufEpico.pluginVersion;$('#update-plugins-table .plugin-title strong:contains("Épico")').prev().replaceWith('<img src="'+i+"/uf-epico/assets/icon-256x256.svg?rev="+n+'" alt="Plugin Épico">')})}(jQuery);

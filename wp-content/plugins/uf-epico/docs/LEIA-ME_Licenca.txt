@@ -1,0 +1,55 @@
+Sobre o licenciamento do Épico (Português)
+------------------------------------------
+Este plugin do WordPress é composto de duas partes:
+
+(1) Os códigos PHP e HTML integrados são licenciados sob a licença GPL, assim como o próprio WordPress. Você encontrará uma cópia do texto da licença no mesmo diretório que este arquivo de texto. Ou você pode lê-lo em https://wordpress.org/about/gpl/
+
+(2) Todas as demais partes do plugin, incluindo – mas não limitado a – o código CSS, imagens, marcas e design, são protegidos pelas leis autorais brasileiras e internacionais.
+
+O certificado de registro no INPI (Instituto Nacional de Propriedade Intelectual) pode ser encontrado no link https://ubr.link/8l ou diretamente no site do INPI em https://www.inpi.gov.br/pedidos-em-etapas/faca-busca, realizando uma busca pela opção "Programa de computador", informando o número do registro do produto: BR 51 2015 000254-6.
+
+Em caso de violação da legislação sobre direitos autorais e sobre propriedade intelectual, aplicar-se-á as cominações previstas na lei 9.610/1998 (Lei dos Direitos Autorais), sem prejuízo da aplicação da lei 2.848/1940 (Código Penal Brasileiro) e 10.406/2002 (Código Civil Brasileiro).
+
+
+About Epico's licencing (English)
+------------------------------------------
+This WordPress plugin is comprised of two parts:
+
+(1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself. You will find a copy of the license text in the same directory as this text file. Or you can read it here: https://wordpress.org/about/gpl/
+
+2) All other parts of the plugin including – but not limited to – the CSS code, images, trademarks and design are protected under the brazilian and international intelectual property laws.
+
+The Épico plugin are registered on the National Institute of Intellectual Property (INPI). The registry certificate can be found at https://ubr.link/8l, or by conducting a search on the INPI website itself (https://www.inpi.gov.br/pedidos-em-etapas/faca-busca) using the option "Programa de Computador" (Computer Program) and including the record number of the product: BR 51 2015 000254-6.
+
+In case of violation of the legislation about copyright and intelectual property, the penaltyes foreseen by the Law # 9.610/1998 (Brazilian Copyright Law) will be aplied, without loss of what is also considered by the Law # 10.406/2002 (Brazilian Civil Code).
+
+
+Outras Licenças / Other licences
+------------------------------------------
+***************************************************************************
+jQuery Validation Plugin - v1.15.1 - 7/22/2016 - https://jqueryvalidation.org/ – Copyright (c) 2016 Jörn Zaefferer
+jQuery HC-Sticky - https://github.com/somewebmedia/hc-sticky – Copyright (c) 2013 Some Web Media
+jQuery bugMe v1.0.7 – Copyright (C) 2013 Chris Wharton (chris@weare2ndfloor.com)
+***************************************************************************
+
+All embedded scripts released under the MIT License www.opensource.org/licenses/mit-license.php
+
+The MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

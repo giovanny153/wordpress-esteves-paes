@@ -1,0 +1,2893 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Épico\n"
+"POT-Creation-Date: 2019-02-03 12:15-0200\n"
+"PO-Revision-Date: 2016-04-23 20:28-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Try one of the links below "
+"or do a search."
+msgstr ""
+
+#: 404.php:40
+msgid "Most Used Categories"
+msgstr ""
+
+#: comment/comment.php:15 comment/ping.php:11
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: comment/comment.php:19 comment/ping.php:15 content/quote.php:63
+#: content/status.php:59
+msgid "Permalink"
+msgstr ""
+
+#: comment/comment.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comment/comments-error.php:5
+#, php-format
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: comment/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: comment/comments-nav.php:5
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: comment/comments-nav.php:8
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: comment/comments-nav.php:11
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: content/aside.php:29 content/content.php:71 content/content.php:75
+#: content/content.php:163 content/content.php:167 content/page.php:101
+#: content/quote.php:67 content/status.php:63
+msgid "Comment"
+msgstr ""
+
+#: content/aside.php:29 content/content.php:71 content/content.php:163
+#: content/page.php:101 content/quote.php:67 content/status.php:63
+msgid "1 comment"
+msgstr ""
+
+#: content/aside.php:29 content/content.php:71 content/content.php:163
+#: content/page.php:101 content/quote.php:67 content/status.php:63
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content/aside.php:33 content/attachment-audio.php:29
+#: content/attachment-image.php:45 content/attachment-video.php:29
+#: content/attachment.php:29 content/content.php:81 content/quote.php:37
+#: content/status.php:31
+msgid "Edit this post"
+msgstr ""
+
+#: content/aside.php:51 content/aside.php:55 content/content.php:79
+#: content/content.php:179 content/content.php:219 content/content.php:253
+#: content/page.php:93 content/quote.php:39 content/quote.php:43
+#: content/status.php:33 content/status.php:37
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: content/attachment-audio.php:39
+msgid "Audio Info"
+msgstr ""
+
+#: content/attachment-audio.php:42
+msgid "Artist"
+msgstr ""
+
+#: content/attachment-audio.php:44
+msgid "Album"
+msgstr ""
+
+#: content/attachment-audio.php:46
+msgid "Year"
+msgstr ""
+
+#: content/attachment-audio.php:48 content/attachment-image.php:87
+#: content/attachment-video.php:42
+msgid "File name"
+msgstr ""
+
+#: content/attachment-audio.php:50 content/attachment-image.php:89
+#: content/attachment-video.php:44
+msgid "Type"
+msgstr ""
+
+#: content/attachment-audio.php:52 content/attachment-image.php:91
+#: content/attachment-video.php:46
+msgid "Mime Type"
+msgstr ""
+
+#: content/attachment-image.php:25
+#, php-format
+msgid "Sizes: %s"
+msgstr ""
+
+#: content/attachment-image.php:84
+msgid "Image Info"
+msgstr ""
+
+#: content/attachment-image.php:102
+msgid "Gallery"
+msgstr ""
+
+#: content/attachment-video.php:39
+msgid "Video Info"
+msgstr ""
+
+#: content/author-box.php:5
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: content/author-box.php:19
+#, php-format
+msgid ""
+"<p>This area is reserved for the author biography and must be edited for "
+"each site author. This setting can be found in the %sBiographical Info%s "
+"section, in the admin panel. If you wish to include links for the author's "
+"social networks, we recommend that you install the WordPress SEO plugin. "
+"After installed, it will appropriately create fields for each social network "
+"in the user administration panel. After filled, they will appear "
+"automatically here.</p>"
+msgstr ""
+
+#: content/author-box.php:26 templates/page-authors.php:110
+#, php-format
+msgid "%s’s website"
+msgstr ""
+
+#: content/author-box.php:26 templates/page-authors.php:110
+msgid "Website"
+msgstr ""
+
+#: content/author-box.php:30 templates/page-authors.php:114
+#, php-format
+msgid "%s on Facebook"
+msgstr ""
+
+#: content/author-box.php:30 templates/page-authors.php:114
+msgid "Facebook"
+msgstr ""
+
+#: content/author-box.php:34 templates/page-authors.php:122
+#, php-format
+msgid "%s on Instagram"
+msgstr ""
+
+#: content/author-box.php:34 templates/page-authors.php:122
+msgid "Instagram"
+msgstr ""
+
+#: content/author-box.php:38 templates/page-authors.php:118
+#, php-format
+msgid "%s on Youtube"
+msgstr ""
+
+#: content/author-box.php:38 templates/page-authors.php:118
+msgid "Youtube"
+msgstr ""
+
+#: content/author-box.php:42 templates/page-authors.php:126
+#, php-format
+msgid "%s on Twitter"
+msgstr ""
+
+#: content/author-box.php:42 templates/page-authors.php:126
+msgid "Twitter"
+msgstr ""
+
+#: content/author-box.php:46 templates/page-authors.php:130
+#, php-format
+msgid "%s on Pinterest"
+msgstr ""
+
+#: content/author-box.php:46 templates/page-authors.php:130
+msgid "Pinterest"
+msgstr ""
+
+#: content/author-box.php:50 templates/page-authors.php:134
+#, php-format
+msgid "%s on Linkedin"
+msgstr ""
+
+#: content/author-box.php:50 templates/page-authors.php:134
+msgid "Linkedin"
+msgstr ""
+
+#: content/author-box.php:54 templates/page-authors.php:138
+#, php-format
+msgid "%s on WhatsApp"
+msgstr ""
+
+#: content/author-box.php:54 templates/page-authors.php:138
+msgid "WhatsApp"
+msgstr ""
+
+#: content/author-box.php:58 templates/page-authors.php:142
+#, php-format
+msgid "%s on Telegram"
+msgstr ""
+
+#: content/author-box.php:58 templates/page-authors.php:142
+msgid "Telegram"
+msgstr ""
+
+#: content/author-box.php:62 templates/page-authors.php:146
+#, php-format
+msgid "%s on Viber"
+msgstr ""
+
+#: content/author-box.php:62 templates/page-authors.php:146
+msgid "Viber"
+msgstr ""
+
+#: content/content.php:123
+#, php-format
+msgid "Tagged %s"
+msgstr ""
+
+#: content/content.php:179 content/content.php:219 content/content.php:253
+msgid "Main category:"
+msgstr ""
+
+#: content/date.php:25 core/inc/functions-attr.php:476
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: content/date.php:25
+msgid "Updated in: "
+msgstr ""
+
+#: content/error.php:7
+msgid "Nothing found"
+msgstr ""
+
+#: content/error.php:13
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: content/loop-nav.php:4
+msgctxt "posts navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: content/loop-nav.php:5
+msgctxt "posts navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: content/nav-posts.php:5
+msgid "<span>Previous Post</span> %title"
+msgstr ""
+
+#: content/nav-posts.php:7
+msgid ""
+"<a id=\"no-previous\" class=\"noposts\"><span>First post</span>&times; No "
+"previous post</a>"
+msgstr ""
+
+#: content/nav-posts.php:13
+msgid "<span>Next Post</span> %title"
+msgstr ""
+
+#: content/nav-posts.php:15
+msgid ""
+"<a id=\"no-next\" class=\"noposts\"><span>Last post</span> No post next "
+"&times;</a>"
+msgstr ""
+
+#: content/page.php:63 templates/page-authors.php:159
+msgid "Edit this page"
+msgstr ""
+
+#: core/admin/class-post-layout.php:83 core/admin/class-term-layout.php:117
+#: core/admin/class-term-layout.php:135 core/inc/functions-customize.php:74
+#: lib/kirki/epico-panels/layout.php:18
+msgid "Layout"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:256
+msgid "Browse:"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:257
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:258
+msgid "Home"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:259 core/inc/template-general.php:448
+msgid "404 Not Found"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:260 core/inc/template-general.php:229
+msgid "Archives"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:262 core/inc/template-general.php:424
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:264
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:266
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:268 core/inc/template-general.php:375
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:270
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:730 core/inc/template-general.php:399
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:747 core/inc/template-general.php:375
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:764 core/inc/template-general.php:350
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:780 core/ext/breadcrumb-trail.php:809
+#: core/ext/breadcrumb-trail.php:836 core/ext/breadcrumb-trail.php:863
+#: core/ext/breadcrumb-trail.php:1203 core/inc/template-general.php:277
+#: core/inc/template-general.php:302
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:781 core/ext/breadcrumb-trail.php:837
+#: core/ext/breadcrumb-trail.php:1207
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:782 core/ext/breadcrumb-trail.php:1211
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: core/ext/breadcrumb-trail.php:810 core/inc/template-general.php:302
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: core/inc/class-media-meta.php:245 core/inc/template-media.php:237
+#, php-format
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: core/inc/functions-attr.php:202
+#, php-format
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr ""
+
+#: core/inc/functions-attr.php:235
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr ""
+
+#: core/inc/functions-attr.php:601
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: core/inc/functions-customize.php:97
+msgid "Global Layout"
+msgstr ""
+
+#: core/inc/functions-filters.php:206
+msgid "(Untitled)"
+msgstr ""
+
+#: core/inc/functions-layouts.php:50
+msgctxt "theme layout"
+msgid "Default"
+msgstr ""
+
+#: core/inc/template-general.php:59
+msgid "https://wordpress.org"
+msgstr ""
+
+#: core/inc/template-general.php:59
+msgid "WordPress"
+msgstr ""
+
+#: core/inc/template-general.php:302
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: core/inc/template-general.php:326
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: core/inc/template-post.php:148
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: footer.php:40 lib/kirki/epico-panels/footer.php:25
+#: templates/page-landing.php:105 templates/tpl-helper-pb-alt.php:135
+#: templates/tpl-helper-pb.php:135
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:54
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:129
+msgid "full white"
+msgstr ""
+
+#: functions.php:134
+msgid "ice grey"
+msgstr ""
+
+#: functions.php:139
+msgid "rainy grey"
+msgstr ""
+
+#: functions.php:144
+msgid "light beige"
+msgstr ""
+
+#: functions.php:149
+msgid "ocean blue"
+msgstr ""
+
+#: functions.php:154
+msgid "lava red"
+msgstr ""
+
+#: functions.php:159
+msgid "midnight grey"
+msgstr ""
+
+#: functions.php:164
+msgid "night grey"
+msgstr ""
+
+#: functions.php:169
+msgid "sky blue"
+msgstr ""
+
+#: functions.php:174
+msgid "dawn orange"
+msgstr ""
+
+#: functions.php:179
+msgid "floral violet"
+msgstr ""
+
+#: functions.php:184
+msgid "emerald green"
+msgstr ""
+
+#: functions.php:192
+msgid "small"
+msgstr ""
+
+#: functions.php:193
+msgid "S"
+msgstr ""
+
+#: functions.php:198
+msgid "regular"
+msgstr ""
+
+#: functions.php:199
+msgid "M"
+msgstr ""
+
+#: functions.php:204
+msgid "large"
+msgstr ""
+
+#: functions.php:205
+msgid "L"
+msgstr ""
+
+#: functions.php:210
+msgid "larger"
+msgstr ""
+
+#: functions.php:211
+msgid "XL"
+msgstr ""
+
+#: header.php:82 templates/tpl-helper-pb.php:78
+msgid "Search"
+msgstr ""
+
+#: inc/back-compat.php:43
+#, php-format
+msgid ""
+"<strong>Oops! Looks like your server does not met the minimum requirements "
+"to run Epico</strong>.<br/><br/><em>Epico requires:</em><ul><li>• Apache or "
+"Nginx server</li><li>• WordPress version 4.7 or higher</li><li>• PHP 5.3 or "
+"higher</li></ul><em><br/>You are running:</em><br/><ul><li>• %1s server</"
+"li><li>• WordPress version %2s</li><li>• PHP version %3s</li></ul><br/>So, "
+"please upgrade your setup and try again."
+msgstr ""
+
+#: inc/back-compat.php:68
+#, php-format
+msgid ""
+"<p><strong>Oops! Looks like your server does not met the minimum "
+"requirements to run Epico.</strong><p><p><em>Epico requires:</em></"
+"p><ul><li>Apache or Nginx server</li><li>WordPress version 4.7 or higher</"
+"li><li>PHP 5.3 or higher</li></ul><p><em>You are running:</em></p><ul><li>"
+"%1s server</li><li>WordPress version %2s</li><li>PHP version %3s</li></"
+"ul><p>So, please upgrade your setup and try again.</p>"
+msgstr ""
+
+#: inc/back-compat.php:96
+#, php-format
+msgid ""
+"<p><strong>Oops! Looks like your server does not met the minimum "
+"requirements to run Epico</strong><p><p><em>Epico requires:</em></"
+"p><ul><li>Apache or Nginx server</li><li>WordPress version 4.7 or higher</"
+"li><li>PHP 5.3 or higher</li></ul><p><em>You are running:</em></p><ul><li>"
+"%1s server</li><li>WordPress version %2s</li><li>PHP version %3s</li></"
+"ul><p>So, please upgrade your setup and try again.</p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:305
+msgid "Executing upgrader_source_selection filter function..."
+msgstr ""
+
+#: inc/epico-theme-updater.php:315
+msgid "Renamed theme folder successfully."
+msgstr ""
+
+#: inc/epico-theme-updater.php:320
+msgid "**Unable to rename downloaded theme."
+msgstr ""
+
+#: inc/epico-theme-updater.php:326
+msgid "**Source or Remote Source is unavailable."
+msgstr ""
+
+#: inc/epico-theme-updater.php:347
+msgid " Theme Updates"
+msgstr ""
+
+#: inc/epico-theme-updater.php:385
+msgid "Username: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:389
+msgid "Email: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:395
+msgid "Key: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:400
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:404
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:405
+msgid "Edit Key"
+msgstr ""
+
+#: inc/epico-theme-updater.php:409
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:410
+msgid "Try again"
+msgstr ""
+
+#: inc/epico-theme-updater.php:415
+msgid "Add Key"
+msgstr ""
+
+#: inc/epico-theme-updater.php:501
+msgid "User name"
+msgstr ""
+
+#: inc/epico-theme-updater.php:507
+msgid "Email"
+msgstr ""
+
+#: inc/epico-theme-updater.php:516
+msgid "Activation Key"
+msgstr ""
+
+#: inc/epico.php:189
+msgctxt "nav menu location"
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/epico.php:190
+msgctxt "nav menu location"
+msgid "Footer links"
+msgstr ""
+
+#: inc/epico.php:204
+msgctxt "sidebar"
+msgid "Main sidebar"
+msgstr ""
+
+#: inc/epico.php:205
+msgid "The main widget area that follows the main content."
+msgstr ""
+
+#: inc/epico.php:215
+msgctxt "sidebar"
+msgid "Promotional"
+msgstr ""
+
+#: inc/epico.php:216
+msgid "Area located at the website header. Optimized for the Capture widget."
+msgstr ""
+
+#: inc/epico.php:223
+msgctxt "sidebar"
+msgid "After Main Sidebar"
+msgstr ""
+
+#: inc/epico.php:224
+msgid ""
+"Area located right after the main sidebar. Optimized for the Capture widget."
+msgstr ""
+
+#: inc/epico.php:231
+msgctxt "sidebar"
+msgid "Before content"
+msgstr ""
+
+#: inc/epico.php:232
+msgid "Area located before the main content."
+msgstr ""
+
+#: inc/epico.php:239
+msgctxt "sidebar"
+msgid "After posts"
+msgstr ""
+
+#: inc/epico.php:240
+msgid ""
+"Area located after post's or page's content. Optimized for the Capture "
+"widget."
+msgstr ""
+
+#: inc/epico.php:247
+msgctxt "sidebar"
+msgid "Before footer"
+msgstr ""
+
+#: inc/epico.php:248
+msgid ""
+"Area located before the website footer. Optimized for one, two or three "
+"widgets."
+msgstr ""
+
+#: inc/epico.php:255
+msgctxt "sidebar"
+msgid "Footer"
+msgstr ""
+
+#: inc/epico.php:256
+msgid "Area located at website footer."
+msgstr ""
+
+#: inc/epico.php:263
+msgctxt "sidebar"
+msgid "Site top"
+msgstr ""
+
+#: inc/epico.php:264
+msgid ""
+"Auxiliary area located at the top of the website. Optimized for the Notice "
+"widget."
+msgstr ""
+
+#: inc/epico.php:322
+msgid "Continue"
+msgstr ""
+
+#: inc/epico.php:788
+msgid "Set Front Page"
+msgstr ""
+
+#: inc/epico.php:799
+msgid ""
+"Upload a icon for your blog (AKA Favicon). You can edit your icon image "
+"after the upload."
+msgstr ""
+
+#: inc/epico.php:968
+msgid "Post Comment"
+msgstr ""
+
+#: inc/epico.php:993 inc/epico.php:999
+msgid "Add a menu to this position"
+msgstr ""
+
+#: inc/epico.php:1372
+msgid "Epico Sidebar"
+msgstr ""
+
+#: inc/epico.php:1436
+msgid ""
+"<strong>Please update your Épico Junior to version 1.3.0.</strong> To do "
+"this, download again the Zip file from the Epico Generator and reinstall it "
+"<a href='http://ubr.link/uploads/atualizar-epico-junior-gerador-epico/' "
+"target='_blank' rel='noopener noreferrer'>by following these instructions "
+"here</a>."
+msgstr ""
+
+#: inc/epico.php:1470
+msgid "Twitter username (without @)"
+msgstr ""
+
+#: inc/epico.php:1473
+msgid "Facebook profile URL"
+msgstr ""
+
+#: inc/epico.php:1477
+msgid "Instagram profile URL"
+msgstr ""
+
+#: inc/epico.php:1480
+msgid "Youtube chanel URL"
+msgstr ""
+
+#: inc/epico.php:1483
+msgid "Pinterest profile URL"
+msgstr ""
+
+#: inc/epico.php:1486
+msgid "Linkedin profile URL"
+msgstr ""
+
+#: inc/epico.php:1489
+msgid "WhatsApp number (with country code)"
+msgstr ""
+
+#: inc/epico.php:1492
+msgid "Telegram username"
+msgstr ""
+
+#: inc/epico.php:1495
+msgid "Viber username"
+msgstr ""
+
+#: inc/metabox/featured-metabox-display.php:18
+msgid "Show featured image in content"
+msgstr ""
+
+#: inc/metabox/featured-metabox.php:25
+msgid "Featured image in content"
+msgstr ""
+
+#: inc/pointers.php:71
+msgid "Epico successfully activated!"
+msgstr ""
+
+#: inc/pointers.php:72
+msgid ""
+"Before customizing it, we recommend that you install the Epico plugin and "
+"configure at least one navigation menu.<br/><br/>It's a simple process that "
+"will take just <strong>four steps</strong>."
+msgstr ""
+
+#: inc/pointers.php:78
+msgid "Start theme configuration"
+msgstr ""
+
+#: inc/pointers.php:82
+msgid "Plugin install (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:82
+msgid ""
+"To make the most of your theme, install the plugin that came with it. Click "
+"<strong>Choose file</strong> above and upload the plugin's zip file.<br/><br/"
+">After the upload, click <strong>Install now</strong>. If the plugin is "
+"already installed, please click the button below to skip this step."
+msgstr ""
+
+#: inc/pointers.php:88
+msgid "Skip this step"
+msgstr ""
+
+#: inc/pointers.php:92
+msgid "Plugin activation (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:92
+msgid ""
+"Next, click the link <strong>Activate plugin</strong> to finish this step "
+"and to wait for the step 2."
+msgstr ""
+
+#: inc/pointers.php:100
+msgid "Plugin activated! (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:100
+msgid ""
+"Great! The plugin is ready to rock! Now, we need to configure our menus. "
+"Click the button below to proceed to the step 2."
+msgstr ""
+
+#: inc/pointers.php:106
+msgid "Go to the menu settings"
+msgstr ""
+
+#: inc/pointers.php:110
+msgid "Menu creation (Step 2/4)"
+msgstr ""
+
+#: inc/pointers.php:111
+msgid ""
+"Here you can add menus, assign them to the theme positions and optionally "
+"add icons to the menu items.<br/><br/>Try to keep a low number of menu "
+"items, this will garantee a nice presentation of you menu on the theme.<br/"
+"><br/>If you need assistance for this step, we have a good tutorial at the "
+"<a href='//minha.uberfacil.com/instalacao-do-tema-epico/#Configurando_menus' "
+"target='_blank'>documentation website</a>."
+msgstr ""
+
+#: inc/pointers.php:117
+msgid "Activate your product"
+msgstr ""
+
+#: inc/pointers.php:121
+msgid "Activate Epico updates (3/4)"
+msgstr ""
+
+#: inc/pointers.php:122
+msgid ""
+"To receive automatic updates for your products, enter your Uberfacil's user "
+"and  registered email address in the Epico Theme and Plugin Updates "
+"dashboard widgets, below.<br><br>You can find your information in your "
+"dashboard at the My Uber section of the <a target='_blank' href='//minha."
+"uberfacil.com/area-exclusiva-2/' >Uberfacil's website</a><br><br>Just click "
+"the Add key button below to reveal the input fields. Fill them and click "
+"submit."
+msgstr ""
+
+#: inc/pointers.php:128
+msgid "Done! Go to customization"
+msgstr ""
+
+#: inc/pointers.php:132
+msgid "Theme customization (Step 4/4)"
+msgstr ""
+
+#: inc/pointers.php:133
+msgid ""
+"Now the last step: the customization happens in this area, where the changes "
+"can be visualized in real time.<br /><br/>Start by adding widgets to the "
+"widget areas and configuring them to your needs. Then, play with the "
+"remaining features to fine tune your theme. Don't forget to save your "
+"changes!<br /><br/>Well, that's it! If you need help, watch the video "
+"walkthrough on our <a href='//minha.uberfacil.com/personalize-seu-tema/' "
+"target='_blank'>documentation website</a> or get in touch with us <a "
+"href='mailto:contato@uberfacil.com?subject=Help with the customization of "
+"the Epico Premium WordPress theme&body=Sent from the WordPress Customizer' "
+"target='_blank'>by email</a>.<br><br>That's all! We hope you will enjoy your "
+"new theme.<br><br>Uberfacil Team"
+msgstr ""
+
+#: inc/pointers.php:175
+msgid "Next"
+msgstr ""
+
+#: inc/pointers.php:182
+msgid "Close"
+msgstr ""
+
+#: inc/reading-time.php:33
+msgid "less than 1 minute"
+msgstr ""
+
+#: inc/reading-time.php:37
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/reading-time.php:87
+msgid "Reading time:"
+msgstr ""
+
+#: inc/social-buttons.php:51
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/social-buttons.php:65
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/social-buttons.php:83
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/social-buttons.php:97
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/social-buttons.php:111
+msgid "Share via WhatsApp"
+msgstr ""
+
+#: inc/social-buttons.php:132
+msgid "Share via Telegram"
+msgstr ""
+
+#: inc/social-buttons.php:154
+msgid "Share via Viber"
+msgstr ""
+
+#: inc/zen-mode.php:20 lib/kirki/epico-panels/layout.php:588
+msgid "Focused reading"
+msgstr ""
+
+#: index.php:78 lib/kirki/epico-panels/layout.php:610
+#: templates/page-full.php:48
+msgid "Related posts"
+msgstr ""
+
+#: index.php:103 templates/page-full.php:73
+msgid "Thumbnail"
+msgstr ""
+
+#: index.php:103 templates/page-full.php:73
+msgid "Post image"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:52
+#: lib/kirki/controls/php/class-kirki-control-base.php:132
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:410
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:415
+#: lib/kirki/custom-config.php:116
+msgid "No File Selected"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:55
+#: lib/kirki/controls/php/class-kirki-control-base.php:133
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:388
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:445
+#: lib/kirki/controls/views/image.php:37 lib/kirki/custom-config.php:87
+#: lib/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:56
+#: lib/kirki/controls/php/class-kirki-control-base.php:135
+#: lib/kirki/custom-config.php:114
+msgid "Select File"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:63
+#: lib/kirki/custom-config.php:34
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:65
+#: lib/kirki/custom-config.php:29
+msgid "No Repeat"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:66
+#: lib/kirki/custom-config.php:30
+msgid "Repeat All"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:67
+#: lib/kirki/custom-config.php:31
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:68
+#: lib/kirki/custom-config.php:32
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:74
+#: lib/kirki/custom-config.php:50
+msgid "Background Position"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:76
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: lib/kirki/custom-config.php:41
+msgid "Left Top"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:77
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: lib/kirki/custom-config.php:42
+msgid "Left Center"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:78
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: lib/kirki/custom-config.php:43
+msgid "Left Bottom"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:79
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: lib/kirki/custom-config.php:44
+msgid "Right Top"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:80
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: lib/kirki/custom-config.php:45
+msgid "Right Center"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:81
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: lib/kirki/custom-config.php:46
+msgid "Right Bottom"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:82
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: lib/kirki/custom-config.php:47
+msgid "Center Top"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:83
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: lib/kirki/custom-config.php:48
+msgid "Center Center"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:84
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: lib/kirki/custom-config.php:49
+msgid "Center Bottom"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:90
+#: lib/kirki/custom-config.php:37
+msgid "Background Size"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:93
+#: lib/kirki/custom-config.php:35
+msgid "Cover"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:96
+#: lib/kirki/custom-config.php:36
+msgid "Contain"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:99
+msgid "Auto"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:106
+#: lib/kirki/custom-config.php:40
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:109
+#: lib/kirki/custom-config.php:39
+msgid "Scroll"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-background.php:112
+#: lib/kirki/custom-config.php:38
+msgid "Fixed"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-base.php:134
+#: lib/kirki/controls/views/image.php:36
+#: lib/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-code.php:39
+msgid ""
+"Please update your WordPress installation to a version newer than 4.9 to "
+"access the code control."
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimension.php:39
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: lib/kirki/custom-config.php:113
+msgid "Invalid Value"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: lib/kirki/controls/php/class-kirki-control-typography.php:108
+#: lib/kirki/custom-config.php:75
+msgid "Font Size"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: lib/kirki/custom-config.php:76
+msgid "Font Weight"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: lib/kirki/controls/php/class-kirki-control-typography.php:116
+#: lib/kirki/custom-config.php:77
+msgid "Line Height"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: lib/kirki/custom-config.php:78
+msgid "Font Style"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: lib/kirki/controls/php/class-kirki-control-typography.php:124
+#: lib/kirki/custom-config.php:79
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: lib/kirki/controls/php/class-kirki-control-typography.php:132
+msgid "Word Spacing"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: lib/kirki/custom-config.php:80
+#: lib/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: lib/kirki/custom-config.php:81
+#: lib/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: lib/kirki/controls/php/class-kirki-control-typography.php:151
+#: lib/kirki/custom-config.php:82
+#: lib/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: lib/kirki/controls/php/class-kirki-control-typography.php:163
+#: lib/kirki/custom-config.php:83
+#: lib/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: lib/kirki/controls/php/class-kirki-control-typography.php:157
+msgid "Center"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: lib/kirki/custom-config.php:92
+msgid "Size"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: lib/kirki/custom-config.php:94
+msgid "Spacing"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: lib/kirki/custom-config.php:93
+msgid "Height"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:123
+msgid "Select a Page"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:229
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:363
+msgid "Hex Value"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:378
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:383
+#: lib/kirki/custom-config.php:88
+msgid "No Image Selected"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:389
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:393
+#: lib/kirki/custom-config.php:85
+msgid "Add Image"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:389
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:391
+#: lib/kirki/custom-config.php:86
+msgid "Change Image"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:421
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:425
+msgid "Add File"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:421
+#: lib/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Change File"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-slider.php:66
+msgid "Reset"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-switch.php:52
+#: lib/kirki/custom-config.php:52
+msgid "On"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-switch.php:56
+#: lib/kirki/custom-config.php:53
+msgid "Off"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:82
+#: lib/kirki/custom-config.php:74
+msgid "Font Family"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:83
+#: lib/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:93
+#: lib/kirki/custom-config.php:90
+msgid "Variant"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:100
+msgid "Download font-family to server instead of using the Google CDN."
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:140
+msgid "Text Align"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:145
+#: lib/kirki/controls/php/class-kirki-control-typography.php:187
+#: lib/kirki/controls/php/class-kirki-control-typography.php:203
+#: lib/kirki/custom-config.php:33
+msgid "Inherit"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:169
+msgid "Justify"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Text Transform"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:182
+#: lib/kirki/controls/php/class-kirki-control-typography.php:198
+msgid "None"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:183
+msgid "Capitalize"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:184
+msgid "Uppercase"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:185
+msgid "Lowercase"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:186
+#: lib/kirki/controls/php/class-kirki-control-typography.php:202
+msgid "Initial"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Text Decoration"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:199
+msgid "Underline"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:200
+msgid "Overline"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:201
+msgid "Line-Through"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:211
+msgid "Margin Top"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:219
+msgid "Margin Bottom"
+msgstr ""
+
+#: lib/kirki/controls/php/class-kirki-control-typography.php:227
+#: lib/kirki/custom-config.php:84
+msgid "Color"
+msgstr ""
+
+#: lib/kirki/controls/views/image.php:34 lib/kirki/controls/views/image.php:39
+#: lib/kirki/field/class-kirki-field-image.php:47
+#: lib/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: lib/kirki/controls/views/image.php:35
+#: lib/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: lib/kirki/controls/views/image.php:38
+#: lib/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: lib/kirki/controls/views/image.php:40
+#: lib/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: lib/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: lib/kirki/core/class-kirki-field.php:257
+#: lib/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: lib/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: lib/kirki/core/class-kirki-field.php:498
+#: lib/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: lib/kirki/core/class-kirki-init.php:276
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: lib/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: lib/kirki/custom-config.php:19
+msgid ""
+"O tema Épico, da Uberfácil, é a solução ideal para você criar o seu blog "
+"profissional! Neste painel você encontra todas as opções para personalizar o "
+"seu Épico como achar melhor!"
+msgstr ""
+
+#: lib/kirki/custom-config.php:27
+msgid "Background Color"
+msgstr ""
+
+#: lib/kirki/custom-config.php:28
+msgid "Background Image"
+msgstr ""
+
+#: lib/kirki/custom-config.php:51
+msgid "Background Opacity"
+msgstr ""
+
+#: lib/kirki/custom-config.php:54
+msgid "All"
+msgstr ""
+
+#: lib/kirki/custom-config.php:55
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:56
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/kirki/custom-config.php:57
+msgid "Devanagari"
+msgstr ""
+
+#: lib/kirki/custom-config.php:58
+msgid "Greek"
+msgstr ""
+
+#: lib/kirki/custom-config.php:59
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/kirki/custom-config.php:60
+msgid "Khmer"
+msgstr ""
+
+#: lib/kirki/custom-config.php:61
+msgid "Latin"
+msgstr ""
+
+#: lib/kirki/custom-config.php:62
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/kirki/custom-config.php:63
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/kirki/custom-config.php:64
+msgid "Hebrew"
+msgstr ""
+
+#: lib/kirki/custom-config.php:65
+msgid "Arabic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:66
+msgid "Bengali"
+msgstr ""
+
+#: lib/kirki/custom-config.php:67
+msgid "Gujarati"
+msgstr ""
+
+#: lib/kirki/custom-config.php:68
+msgid "Tamil"
+msgstr ""
+
+#: lib/kirki/custom-config.php:69
+msgid "Telugu"
+msgstr ""
+
+#: lib/kirki/custom-config.php:70
+msgid "Thai"
+msgstr ""
+
+#: lib/kirki/custom-config.php:71
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: lib/kirki/custom-config.php:72
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: lib/kirki/custom-config.php:73
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: lib/kirki/custom-config.php:89
+msgid "Select a font-family"
+msgstr ""
+
+#: lib/kirki/custom-config.php:91
+msgid "Subset"
+msgstr ""
+
+#: lib/kirki/custom-config.php:95
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:210
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: lib/kirki/custom-config.php:96
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:97
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Light 200"
+msgstr ""
+
+#: lib/kirki/custom-config.php:98
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:99
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Book 300"
+msgstr ""
+
+#: lib/kirki/custom-config.php:100
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:101
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Normal 400"
+msgstr ""
+
+#: lib/kirki/custom-config.php:102
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:103
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Medium 500"
+msgstr ""
+
+#: lib/kirki/custom-config.php:104
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:105
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: lib/kirki/custom-config.php:106
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:107
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Bold 700"
+msgstr ""
+
+#: lib/kirki/custom-config.php:108
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:109
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: lib/kirki/custom-config.php:110
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:111
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: lib/kirki/custom-config.php:112
+#: lib/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: lib/kirki/custom-config.php:115
+#, php-format
+msgid "%s Reset"
+msgstr ""
+
+#: lib/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:10
+msgid "Advanced"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:22
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:23
+msgid "Add custom CSS styles if needed."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:40
+msgid "Custom javascript (“head” tag)."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:41
+#: lib/kirki/epico-panels/advanced.php:58
+msgid "Add custom Javascript here if needed."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:42
+msgid ""
+"This Javascript snippet will be included inside the “head” tag in your HTML."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:57
+msgid "Custom Javascript (before the closing “body” tag)."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:59
+msgid ""
+"This Javascript snippet will be included before the end of the “body” tag in "
+"your HTML."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:74
+msgid "Ignore styles in pages"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:75
+msgid ""
+"If you want to remove theme styles from certain pages to avoid conflicts "
+"with page builder plugins, select below the pages that should be ignored by "
+"the Epico theme."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:76
+msgid ""
+"If you use some kind of page builder plugin to create pages, please identify "
+"this pages here. This will remove all Epico styles in these pages. This "
+"setting works only for pages, not posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:95
+msgid "Ignore styles in categories"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:96
+msgid ""
+"If you want to remove theme styles from certain categories to avoid "
+"conflicts with page builder plugins, select below the categories that should "
+"be ignored by the Epico theme."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:97
+msgid ""
+"If you use some kind of page builder plugin to create categories, please "
+"identify the categories here. This will remove all Epico styles in these "
+"categories. This setting works only for categories, not tags."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:115
+msgid "Google Tag Manager"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:116
+msgid ""
+"If you want to track user behaviour in your website using the free Google "
+"Tag Manager, paste your GTM ID in the field below, in the following format: "
+"GTM-AB123CD."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:117
+msgid ""
+"The Google Tag Manager is a free tool from Google that allows digital "
+"marketing professionals manage their campaigns with more independence from "
+"developers, offering powerful tools to track user behaviour in your website."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:129
+msgid "UTM Processor"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:130
+msgid ""
+"Activate to automatically collect and send UTM parameters present in your "
+"URL to your email marketing service. You must also create custom fields in "
+"your email marketing service that exactly match the names defined in the "
+"fields below (activate first to show the fields)."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:142
+msgid ""
+"<span class=\"description customize-control-description\">Get more "
+"information about your leads based on UTM parameters from links to your "
+"content, that you share outside your blog. You can find more information "
+"about this feature in your <a target=\"_blank\" rel=\"noopener noreferrer\" "
+"href=\"https://minha.uberfacil.com/wp-login.php?"
+"redirect_to=processador_de_utms\">client area</a>.</span><p>After activating "
+"this option, below you can attribute custom names for the UTM fields if your "
+"email marketing service demands. Don't use spaces or special characters. "
+"Leave blank the fields you don't want to use.</p>"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:150
+msgid "Select your email marketing service"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:156
+msgid "ActiveCampaign"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:157
+msgid "ArpReach"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:158
+msgid "Aweber"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:159
+msgid "Benchmark"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:160
+msgid "Campaign Monitor"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:161
+msgid "e-Goi"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:162
+msgid "Get Response"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:163
+msgid "Google Forms"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:164
+msgid "InfusionSoft"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:165
+msgid "Klick Mail"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:166
+msgid "Lahar"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:167
+msgid "Lead Lovers"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:168
+msgid "MadMimi"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:169
+msgid "Mail Relay"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:170
+msgid "MailChimp"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:171
+msgid "Mailee.Me"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:172
+msgid "MailPoet"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:173
+msgid "Mailster"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:174
+msgid "Mautic"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:175
+msgid "RD Station"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:176
+msgid "Sendy"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:177
+msgid "TrafficWave"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:194
+msgid "UTM Source"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:195
+msgid ""
+"The content of the utm_source parameter. Enter a new custom name if needed "
+"or leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:214
+msgid "UTM Medium"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:215
+msgid ""
+"The content of the utm_medium parameter. Enter a new custom name if needed "
+"or leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:234
+msgid "UTM Campaign"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:235
+msgid ""
+"The content of the utm_campaign parameter. Enter a new custom name if needed "
+"or leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:254
+msgid "UTM Content"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:255
+msgid ""
+"The content of the utm_content parameter. Enter a new custom name if needed "
+"or leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:274
+msgid "UTM Term"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:275
+msgid ""
+"The content of the utm_term parameter. Enter a new custom name if needed or "
+"leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:294
+msgid "Initial referrer"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:295
+msgid ""
+"The link of the initial referrer. Enter a new custom name if needed or leave "
+"at the default. This name must match the value of the custom field created "
+"on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:314
+msgid "Last referrer"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:315
+msgid ""
+"The link of the most recent referrer. Enter a new custom name if needed or "
+"leave at the default. This name must match the value of the custom field "
+"created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:334
+msgid "Initial landing page"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:335
+msgid ""
+"The initial landing page that lead the visitor to your blog. Enter a new "
+"custom name if needed or leave at the default. This name must match the "
+"value of the custom field created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:354
+msgid "Visits"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:355
+msgid ""
+"The number of visits the subscriber had on your page. Enter a new custom "
+"name if needed or leave at the default. This name must match the value of "
+"the custom field created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:374
+msgid "Affiliate"
+msgstr ""
+
+#: lib/kirki/epico-panels/advanced.php:375
+msgid ""
+"The affiliate's identification, if presente as a parameter. Enter a new "
+"custom name if needed or leave at the default. This name must match the "
+"value of the custom field created on your email marketing service."
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:10
+msgid "Branding"
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:22
+msgid "Site title"
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:23
+msgid "How you would like to call your blog?"
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:24
+msgid "Choose the site title for the header of your site."
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:35
+msgid "Logo"
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:36
+msgid "Add a logo image instead of a title."
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:37
+msgid ""
+"Tip: to keep your site performance optimized, upload an image file with 400 "
+"pixels width (maximum)."
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:49
+msgid "Logo image width"
+msgstr ""
+
+#: lib/kirki/epico-panels/branding.php:51
+msgid ""
+"After the upload, you can fine tune the image width to perfect it in your "
+"layout. Width in pixels."
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:10
+msgid "Footer information"
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:22
+msgid "Add additional information"
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:23
+msgid ""
+"Add optional credits or other subsidiary information in the site footer. If "
+"you need a link in that area, you can use the footer menu, accesible through "
+"the WordPress default menu system."
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:34
+msgid "Site starting date"
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:35
+msgid ""
+"Enter the starting year of your site, if different from the current year "
+"(enter a four digit number . Ex: 2012)."
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:46
+msgid "Upload the footer logo image"
+msgstr ""
+
+#: lib/kirki/epico-panels/footer.php:47
+msgid ""
+"(Optional) A transparent PNG version with a white logo is preferable to "
+"maintain contrast against the dark background of the footer."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:10
+msgid "Design and layout"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:26
+msgid "Typography"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:34
+msgid "Colors"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:42
+msgid "Background images"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:55
+msgid ""
+"<div class=\"epc-tip\">Tip: here you will find controls to change your "
+"blog’s  global styling. To change widget styles, go to the <a target=\"_blank"
+"\" rel=\"noopener noreferrer\" href=\"javascript:wp.customize."
+"panel('widgets').focus();\">Widgets section</a>, where you can change each "
+"widget individually.</div>"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:66
+msgid "Color palettes"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:67
+msgid ""
+"Customize your site colors with one of these color palletes. To see all the "
+"variations between the palette options, first add some widgets from the "
+"Epico plugin."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:89
+msgid "Override style main color"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:90
+msgid ""
+"Check this if you want to override the pallete accent color and define a new "
+"custom color."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:101
+msgid "New main color"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:102
+msgid "Choose a value to automatically override the pallete's main color."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:103
+msgid ""
+"Here you can specify a custom color for the main elements of the template, "
+"overriding the chosen pallete. The neutral tones will remain the same."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:124
+msgid "Blog background colors"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:125
+msgid "Main background color"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:139
+msgid "Site top (above the blog header)"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:140
+msgid ""
+"This will appear only if a widget was added to the “site top” widget area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:154
+msgid "Header"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:168
+msgid "Mobile menu and submenu"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:169
+msgid "Visible only if sub items was added to any item in the main menu."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:183
+msgid "Prefooter"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:184
+msgid ""
+"The background color will appear only if a widget was added to the prefooter "
+"widget area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:198
+msgid "Footer"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:212
+msgid "Featured image area"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:213
+msgid ""
+"This color control only affects the featured image area in post listings."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:227
+msgid "Post excerpt in listings"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:228
+msgid ""
+"This option will change the background of the post excerpt area in listings."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:242
+msgid "Browser address bar color (mobile)"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:243
+msgid ""
+"This only affects the browser address bar on mobile. The mobile browsers "
+"affected are: Chrome, Safari, Firefox OS, Opera, Windows Phone browser and "
+"Vivaldi."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:257
+msgid "Pagination numbers"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:258
+msgid ""
+"This option will change the background of the pagination's items on post and "
+"page listings."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:272
+msgid "Archive category title"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:273
+msgid ""
+"This option will change the background of the title on category listings."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:287
+msgid "Landing pages"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:288
+msgid ""
+"This color will appear on the background of pages which have the following "
+"page templates applied: Landing Page, Landing Page (minimal), Auxiliary "
+"(page builders), Auxiliary alternative (page builders) and Auxiliary minimal "
+"(page builders). Note that the color will not appear on the page if a "
+"background image for these page templates is also defined."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:306
+msgid ""
+"Tip: optimize your images before uploading them in this section in order not "
+"to hinder your blog loading performance."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:314
+msgid "Featured image as post title background"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:315
+msgid ""
+"Check this option if you want to automatically add the featured image as a "
+"background image in post titles."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:316
+msgid ""
+"The featured image will be stretched in the available space, below the post "
+"title text. It's recommended to optimize the image to prevent negative "
+"impacts in your blog loading performance."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:327
+msgid "Blog's background image"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:329
+msgid ""
+"This image will appear in every section of the blog, except in pages with "
+"the Landing Page template applied."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:345
+msgid "Site top background image"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:346
+msgid ""
+"After uploading your image, you should also change de site top's background "
+"color to match your images's color. This will appear only if a widget was "
+"added to the “site top” widget area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:363
+msgid "Header background image"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:364
+msgid ""
+"After uploading your image, you should also change de header's background "
+"color to match your images's color."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:381
+msgid "Prefooter background image"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:382
+msgid ""
+"After uploading your image, you should also change de prefooter's background "
+"color to match your images's color."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:399
+msgid "Footer background image"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:400
+msgid ""
+"After uploading your image, you should also change de footer's background "
+"color to match your images's color."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:417
+msgid "Background image for landing pages "
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:419
+msgid ""
+"This image will appear on the background of pages which have the following "
+"page templates applied: Landing Page, Landing Page (minimal), Auxiliary "
+"(page builders), Auxiliary alternative (page builders) and Auxiliary minimal "
+"(page builders)."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:438
+msgid "Header font"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:439
+msgid "Choose one typographic style to use with the site headers."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:459
+msgid "Text font"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:460
+msgid "Choose one typographic style for the text of your articles."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:480
+msgid "Blog layout"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:481
+msgid ""
+"Choose a layout for your content: sidebar on the left, sidebar on the right "
+"or no sidebar. Tip: the “sidebar left” or “sidebar right” options can be "
+"overwritten individually in posts and pages by applying a page template "
+"without the sidebar."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:497
+msgid "Compact listing of posts"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:498
+msgid ""
+"This will enable a more compact display of posts in various listings: "
+"archives, blogs, categories, tags and taxonomies."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:509
+msgid "Post metadata layout in compact listing"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:532
+msgid "Estimated reading time of posts"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:533
+msgid ""
+"A small notice with the estimated reading time of the post will appear right "
+"above the post's text. After activating this, you must resave your old posts "
+"to calculate the reading time for them."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:544
+msgid "Ignore reading time in pages"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:545
+msgid ""
+"If you want to remove the reading time from certain pages, select them below."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:546
+msgid ""
+"The reading time does not make sense in some page types. Pages with contact "
+"forms or with video only will not benefit for this information. To correct "
+"this behavior, this option will remove the reading time only from the pages "
+"you select in the text field. This setting works only for pages, not posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:566
+msgid "Zen mode (focused reading)"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:567
+msgid ""
+"This will add a small icon for the Zen mode (or focused reading mode), right "
+"above the post or page title. The Zen mode will allow the site visitor to "
+"temporally remove all layout distractions from the site’s interface, like "
+"sidebars, widgets and background colors or images."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:578
+msgid "Zen mode button text"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:579
+msgid ""
+"Specify the text that will show when the mouse is hovering over the Zen mode "
+"icon."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:597
+msgid "Author box"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:598
+msgid "Enable or disable the author box below posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:599
+msgid ""
+"Uncheck to remove the author box feature from articles, located at the end "
+"of the post content. Pages are automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:611
+msgid "Enable or disable the automatic related posts feature."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:612
+msgid ""
+"Uncheck to remove the related posts feature from articles. Pages are "
+"automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:623
+msgid "Number of posts to show"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:624
+msgid "Choose the number of posts to insert in the related posts area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:647
+msgid "Post navigation"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:648
+msgid "Enable or disable the automatic post navigation feature."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:649
+msgid ""
+"Uncheck to remove the navigation posts feature from articles, before the "
+"comment form. Pages are automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:660
+msgid "Columns in the “Sidebar” area"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:661
+msgid "Widgets in two columns in the “Sidebar” area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:662
+msgid ""
+"Disable to prevent widgets placed in the “sidebar” area to appear in two "
+"columns. This only occurs in the following situations: 1) when the blog is "
+"viewed on mobile, with the device in landscape orientation. 2) when the “no "
+"sidebar” layout option is selected in the panel (Design and Layout tab). 3) "
+"When any page templates without a sidebar are applied to pages and/or posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:680
+msgid "Full width “sidebar” area"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:681
+msgid ""
+"This will stretch the main “sidebar” widget area to the full width of the "
+"window."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:682
+msgid ""
+"This only works when the “No sidebar” option is also activated. You can use "
+"this to better acomodate modules from page builder plugins."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:705
+msgid "Remove margins between widgets in “sidebar” area"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:706
+msgid ""
+"Select to remove the space that separate the widgets in the full width "
+"“sidebar” area."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:707
+msgid ""
+"This only works when the “No sidebar” option is also activated. You can use "
+"this to create more interesting layouts in the sidebar area using multiple "
+"widgets and other elements from page builders."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:735
+msgid "Display tags"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:736
+msgid "Check this to display post tags at the end of your content."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:737
+msgid "Keep this unchecked if you wish to remove tags from your posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:748
+msgid "Threshold for number of comments"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:749
+msgid ""
+"Choose a threshold from which the number of comments will appear in your "
+"content."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:750
+msgid ""
+"Here you can choose to display the number of comments in your posts only "
+"after a certain threshold is reached. Note: this does not work with the "
+"Facebook Comments WordPress plugin."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:766
+msgid "Type of date to display"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:767
+msgid "Select the type of date you want do display in your posts."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:768
+msgid ""
+"The date is displayed right below the post title. The published date is the "
+"date when the post was first published in WordPress. The modified date is "
+"the date when the post was updated in WordPress after the first publication."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:773
+msgid "Published date"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:774
+msgid "Modified date (if available)"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:775
+msgid "Display both dates"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:776
+msgid "Hide dates"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:785
+msgid "Remove date on older posts"
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:786
+msgid ""
+"This will remove the published date from posts older than the number of days "
+"specified below."
+msgstr ""
+
+#: lib/kirki/epico-panels/layout.php:787
+msgid ""
+"Here you can choose to display the date in your posts for fresh articles "
+"only. Posts older than the days specified here will have the date "
+"automatically removed."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:10
+msgid "Social sharing buttons"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:22
+msgid "Enable in pages"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:23
+msgid ""
+"Control the display of the social buttons in pages. You can also specify "
+"below the pages from which you would like to remove the buttons from."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:34
+msgid "Select specific pages you want to remove the sharing buttons from."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:54
+msgid "Enable in posts"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:55
+msgid ""
+"Control the display of the social buttons in posts. You can also specify "
+"below the posts from which you would like to remove the buttons from."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:66
+msgid "Select specific post you want to remove the sharing buttons from."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:86
+msgid "Sticky share box"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:87
+msgid ""
+"By default the box remains fixed when the page scrolls. You can control this "
+"behavior here."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:98
+msgid "Close button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:99
+msgid ""
+"A close button to dismiss the social button bar. For this feature to work, "
+"you must have installed the theme's funcionality plugin."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:110
+msgid "Total number of shares"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:111
+msgid "The total number of shares for all social networks shown."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:122
+msgid "Shares per social network"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:123
+msgid "Individual number or shares for each social network."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:134
+msgid "Shared Count API key"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:135
+msgid "How do I get this? See http://ubr.link/botoes"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:136
+msgid ""
+"Please enter your Shared Count API key to authorize the buttons to collect "
+"the number of shares. This step is necessary to authenticate the requests "
+"made by your sharing buttons to the Shared Count API, and will allow the "
+"number of shares to appear properly beside your buttons."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:161
+msgid "Button styles"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:176
+msgid "Facebook button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:177
+msgid "Display the Facebook button."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:188
+msgid "Twitter button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:189
+msgid "Display the Twitter button."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:201
+msgid ""
+"Important: to automatically get your Twitter's share count, register your "
+"site on the Jsoon website. See http://ubr.link/botoes"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:218
+msgid "Pinterest button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:219
+msgid "Display the Pinterest button."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:230
+msgid "LinkedIn button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:231
+msgid "Display the LinkedIn button."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:242
+msgid "WhatsApp button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:243
+msgid ""
+"Display the WhatsApp button. Notice: this button does not display numbers of "
+"shares."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:254
+msgid "Where do you want do display the WhatsApp button?"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:255
+msgid ""
+"Select where do you want to display the button. The desktop version will use "
+"the Web version of WhatsApp to share the post link."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:260 lib/kirki/epico-panels/social.php:295
+msgid "Cell Phones only"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:261 lib/kirki/epico-panels/social.php:296
+msgid "Cell Phones and desktops"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:277
+msgid "Telegram button"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:278
+msgid ""
+"Display the Telegram button. Notice: this button does not display numbers of "
+"shares."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:289
+msgid "Where do you want do display the Telegram button?"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:290
+msgid ""
+"Select where do you want to display the button. The desktop version will use "
+"the Web version of Telegram to share the post link."
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:312
+msgid "Viber button (mobile only)"
+msgstr ""
+
+#: lib/kirki/epico-panels/social.php:313
+msgid ""
+"Display the Viber button. Notice: this button does not display numbers of "
+"shares and is not shown on desktop computers."
+msgstr ""
+
+#: lib/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: lib/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: lib/kirki/field/class-kirki-field-switch.php:39
+msgid "Yes"
+msgstr ""
+
+#: lib/kirki/field/class-kirki-field-switch.php:40
+msgid "No "
+msgstr ""
+
+#: lib/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:60
+msgid "Customizing"
+msgstr ""
+
+#: lib/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:63
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: lib/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: menu/primary.php:5
+msgid "Toggle navigation"
+msgstr ""
+
+#: menu/primary.php:5
+msgid "Menu"
+msgstr ""
+
+#: menu/primary.php:8
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:8
+msgid "&#xf002; Search for:"
+msgstr ""
+
+#: searchform.php:10
+msgid "Go &#xf0a9;"
+msgstr ""
+
+#: sidebar/primary.php:45
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar/primary.php:46
+#, php-format
+msgid ""
+"<p>This is just an example widget to show how the Primary sidebar looks by "
+"default. To enhance your blog and get better results, install the companion "
+"Epico plugin and add here the special blog widgets. You can do this from the "
+"%scustomize screen%s, in the WordPress admin.</p>"
+msgstr ""
+
+#: templates/page-authors.php:95
+msgid "Editor"
+msgstr ""
+
+#: templates/page-authors.php:97
+msgid "Admin"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Épico"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://minha.uberfacil.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Épico, da Uberfácil, é um tema especializado para blogs, cuidadosamente "
+"projetado para facilitar estratégias de marketing de conteúdo online. Seu "
+"exclusivo design centrado em conversões é inspirado em técnicas testadas e "
+"bem sucedidas, que o ajudarão a impulsionar fortemente a sua audiência."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Uberfácil"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.uberfacil.com"
+msgstr ""

@@ -1,0 +1,24 @@
+Sobre o licenciamento do Épico (Português)
+------------------------------------------
+Este tema do WordPress é composto de duas partes: 
+
+(1) Os códigos PHP e HTML integrados são licenciados sob a licença GPL, assim como o próprio WordPress. Você encontrará uma cópia do texto da licença no mesmo diretório que este arquivo de texto. Ou você pode lê-lo em http://wordpress.org/about/gpl/
+
+(2) Todas as demais partes do tema, incluindo – mas não limitado a – o código CSS, imagens, marcas e design, são protegidos pelas leis autorais brasileiras e internacionais.
+
+O certificado de registro no INPI (Instituto Nacional de Propriedade Intelectual) pode ser encontrado no link http://ubr.link/8l ou diretamente no site do INPI em http://www.inpi.gov.br/pedidos-em-etapas/faca-busca, realizando uma busca pela opção "Programa de computador", informando o número do registro do produto: BR 51 2015 000254-6.
+
+Em caso de violação da legislação sobre direitos autorais a propriedade intelectual, aplicar-se-á as cominações previstas na lei 9.610/1998 (Lei dos Direitos Autorais), sem prejuízo da aplicação da lei 2.848/1940 (Código Penal Brasileiro) e 10.406/2002 (Código Civil Brasileiro).
+
+
+About Epico's licencing (English)
+------------------------------------------
+This WordPress theme is comprised of two parts: 
+
+(1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself. You will find a copy of the license text in the same directory as this text file. Or you can read it here: http://wordpress.org/about/gpl/ 
+
+2) All other parts of the theme including – but not limited to – the CSS code, images, trademarks and design are protected under the brazilian and international intelectual property laws.
+
+The Epico theme are registered on the National Institute of Intellectual Property (INPI). The registry certificate can be found at http://ubr.link/8l, or by conducting a search on the INPI website itself (http://www.inpi.gov.br/pedidos-em-etapas/faca-busca) using the option "Programa de Computador" (Computer Program) and including the record number of the product: BR 51 2015 000254-6.
+
+In case of violation of the legislation about copyright and intelectual property, the penaltyes foreseen by the Law # 9.610/1998 (Brazilian Copyright Law) will be aplied, without loss of what is also considered by the Law # 10.406/2002 (Brazilian Civil Code).

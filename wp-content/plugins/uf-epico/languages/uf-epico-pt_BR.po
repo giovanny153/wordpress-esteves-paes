@@ -1,0 +1,2474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Épico\n"
+"POT-Creation-Date: 2019-01-30 15:52-0200\n"
+"PO-Revision-Date: 2019-01-30 15:56-0200\n"
+"Last-Translator: Uberfácil <contato@uberfacil.com>\n"
+"Language-Team: Uberfácil – contato@uberfacil.com\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plugincore.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/js/scripts-epico_capture_widget.php:144
+msgid "You just openned the modal video"
+msgstr "Você acabou de abrir a janela modal de vídeo"
+
+#: assets/js/scripts-epico_capture_widget.php:145
+msgid "Close the modal by clicking here"
+msgstr "Feche a janela modal clicando aqui"
+
+#: class-uf-epico.php:243
+msgid "Capture (shortcode)"
+msgstr "Capture (shortcode)"
+
+#: class-uf-epico.php:244 class-uf-epico.php:254 class-uf-epico.php:836
+#: class-uf-epico.php:862
+msgid "Capture"
+msgstr "Capture"
+
+#: class-uf-epico.php:245
+msgid "Add new"
+msgstr "Criar nova"
+
+#: class-uf-epico.php:246
+msgid "Add new Capture"
+msgstr "Criar nova captura"
+
+#: class-uf-epico.php:247
+msgid "Edit Capture"
+msgstr "Editar captura"
+
+#: class-uf-epico.php:248
+msgid "All Captures"
+msgstr "Todas as capturas"
+
+#: class-uf-epico.php:249
+msgid "View Capture"
+msgstr "Visualizar captura"
+
+#: class-uf-epico.php:250
+msgid "Search Captures"
+msgstr "Buscar capturas"
+
+#: class-uf-epico.php:251
+msgid "No Capture defined"
+msgstr "Nenhuma captura definida"
+
+#: class-uf-epico.php:252
+msgid "No Capture found in trash"
+msgstr "Nenhuma captura encontrada na lixeira"
+
+#: class-uf-epico.php:300 class-uf-epico.php:303
+msgid "Capture updated."
+msgstr "Captura atualizada."
+
+#: class-uf-epico.php:301
+msgid "Custom field updated."
+msgstr "Campo personalizado atualizado."
+
+#: class-uf-epico.php:302
+msgid "Custom field deleted."
+msgstr "Campo personalizado apagado."
+
+#: class-uf-epico.php:306
+#, php-format
+msgid "Capture restored to revision from %s"
+msgstr "Captura restaurada para revisão a partir de  %s"
+
+#: class-uf-epico.php:307
+msgid "Capture published."
+msgstr "Captura publicada."
+
+#: class-uf-epico.php:308
+msgid "Capture saved."
+msgstr "Captura salva."
+
+#: class-uf-epico.php:309
+msgid "Capture submitted."
+msgstr "Captura enviada."
+
+#: class-uf-epico.php:310
+#, php-format
+msgid "Capture scheduled for: <strong>%1$s</strong>."
+msgstr "Captura agendada para: <strong>%1$s</strong>."
+
+#: class-uf-epico.php:311
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: class-uf-epico.php:312
+msgid "Capture draft updated."
+msgstr "Rascunho de captura atualizado."
+
+#: class-uf-epico.php:331 configs/epico_author/epico_author-texts.php:14
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:14
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:14
+#: configs/epico_notice/epico_notice-texts.php:14
+msgid "Texts"
+msgstr "Textos"
+
+#: class-uf-epico.php:338 configs/epico_capture_sc/epico_capture_sc-icon.php:14
+#: configs/epico_pop/epico_pop-title.php:25
+msgid "Icon"
+msgstr "Ícone"
+
+#: class-uf-epico.php:345
+msgid "Email Marketing"
+msgstr "E-mail Marketing"
+
+#: class-uf-epico.php:352
+#: configs/epico_author/epico_author-customization.php:14
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:14
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:14
+#: configs/epico_links/epico_links-customization.php:14
+#: configs/epico_notice/epico_notice-customization.php:14
+#: configs/epico_pages/epico_pages-customization.php:14
+#: configs/epico_pop/epico_pop-customization.php:14
+#: configs/epico_social/epico-social-customization.php:14
+msgid "Customization"
+msgstr "Personalização"
+
+#: class-uf-epico.php:359 configs/epico_author/epico_author-edit-colors.php:14
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:14
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:14
+#: configs/epico_links/epico_links-edit-colors.php:14
+#: configs/epico_notice/epico_notice-edit-colors.php:14
+#: configs/epico_notice/epico_notice-edit-colors.php:19
+#: configs/epico_pages/epico_pages-edit-colors.php:14
+#: configs/epico_pop/epico_pop-edit-colors.php:14
+#: configs/epico_social/epico-social-edit-colors.php:14
+msgid "Edit colors"
+msgstr "Editar cores"
+
+#: class-uf-epico.php:425 class-uf-epico.php:472 class-uf-epico.php:990
+#: includes/widgets/widget-epico-social.php:163
+#: includes/widgets/widget-epico-social.php:198
+#: includes/widgets/widget-epico_author.php:163
+#: includes/widgets/widget-epico_author.php:198
+#: includes/widgets/widget-epico_capture_widget.php:158
+#: includes/widgets/widget-epico_capture_widget.php:192
+#: includes/widgets/widget-epico_image.php:151
+#: includes/widgets/widget-epico_image.php:186
+#: includes/widgets/widget-epico_links.php:163
+#: includes/widgets/widget-epico_links.php:198
+#: includes/widgets/widget-epico_notice.php:165
+#: includes/widgets/widget-epico_notice.php:200
+#: includes/widgets/widget-epico_pages.php:166
+#: includes/widgets/widget-epico_pages.php:201
+#: includes/widgets/widget-epico_pop.php:163
+#: includes/widgets/widget-epico_pop.php:198
+msgid "Remove"
+msgstr "Remover"
+
+#: class-uf-epico.php:465 class-uf-epico.php:974
+#: includes/widgets/widget-epico-social.php:192
+#: includes/widgets/widget-epico_author.php:192
+#: includes/widgets/widget-epico_capture_widget.php:186
+#: includes/widgets/widget-epico_image.php:180
+#: includes/widgets/widget-epico_links.php:192
+#: includes/widgets/widget-epico_notice.php:194
+#: includes/widgets/widget-epico_pages.php:195
+#: includes/widgets/widget-epico_pop.php:192
+msgid "Add Another"
+msgstr "Adicionar outro"
+
+#: class-uf-epico.php:524
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: class-uf-epico.php:525
+msgid "Date"
+msgstr "Data"
+
+#: class-uf-epico.php:835 class-uf-epico.php:862
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: class-uf-epico.php:836 class-uf-epico.php:872
+msgid "Insert Shortcode"
+msgstr "Inserir shortcode"
+
+#: class-uf-epico.php:898
+msgid "Your content goes here"
+msgstr "Seu conteúdo entra aqui"
+
+#: class-uf-epico.php:1238
+msgid "Follow us on Twitter!"
+msgstr "Siga-nos no Twitter!"
+
+#: class-uf-epico.php:1238
+msgid "Follow us on Facebook"
+msgstr "Siga-nos no Facebook"
+
+#: configs/epico_author/epico_author-button.php:14
+msgid "Button"
+msgstr "Botão"
+
+#: configs/epico_author/epico_author-button.php:19
+#: configs/epico_notice/epico_notice-texts.php:31
+msgid "Button link"
+msgstr "Link do botão"
+
+#: configs/epico_author/epico_author-button.php:20
+msgid "Add a link to a relevant page about the author or the website."
+msgstr "Adicione um link para uma página relevante sobre o autor ou o website."
+
+#: configs/epico_author/epico_author-button.php:25
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:62
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:68
+#: configs/epico_notice/epico_notice-texts.php:25
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: configs/epico_author/epico_author-button.php:26
+msgid "Insert a short phrase for the button."
+msgstr "Insira uma frase curta para o botão."
+
+#: configs/epico_author/epico_author-button.php:28
+msgid "Read more"
+msgstr "Saiba mais"
+
+#: configs/epico_author/epico_author-button.php:31
+#: configs/epico_image/epico_image-image.php:43
+#: configs/epico_links/epico_links-customization.php:25
+#: configs/epico_notice/epico_notice-customization.php:25
+#: configs/epico_pages/epico_pages-customization.php:25
+#: configs/epico_pop/epico_pop-customization.php:25
+#: configs/epico_social/epico-social-customization.php:25
+msgid "Link target"
+msgstr "Destino do link"
+
+#: configs/epico_author/epico_author-button.php:32
+msgid "Choose one of the actions for the button when clicked."
+msgstr "Selecione uma ação para o botão ao ser clicado."
+
+#: configs/epico_author/epico_author-button.php:34
+#: configs/epico_image/epico_image-image.php:46
+#: configs/epico_notice/epico_notice-customization.php:28
+#: configs/epico_pop/epico_pop-customization.php:28
+#: configs/epico_social/epico-social-customization.php:28
+msgid "*0||Open in new window,1||Open in the same window"
+msgstr "*0||Nova janela,1||Mesma janela"
+
+#: configs/epico_author/epico_author-customization.php:19
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:19
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:19
+#: configs/epico_links/epico_links-customization.php:19
+#: configs/epico_notice/epico_notice-customization.php:19
+#: configs/epico_pages/epico_pages-customization.php:19
+#: configs/epico_pop/epico_pop-customization.php:19
+#: configs/epico_social/epico-social-customization.php:19
+msgid "Unique identifier"
+msgstr "Identificador único"
+
+#: configs/epico_author/epico_author-customization.php:20
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:20
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:20
+#: configs/epico_links/epico_links-customization.php:20
+#: configs/epico_notice/epico_notice-customization.php:20
+#: configs/epico_pages/epico_pages-customization.php:20
+#: configs/epico_pop/epico_pop-customization.php:20
+#: configs/epico_social/epico-social-customization.php:20
+msgid ""
+"Enter an unique identifier for the widget. Use only regular alphabet letters "
+"and don't use special symbols."
+msgstr ""
+"Insira um nome para diferenciar este widget dos demais widgets do mesmo "
+"tipo. Utilize apenas caracteres normais do alfabeto, sem acentos, espaços, "
+"números ou símbolos."
+
+#: configs/epico_author/epico_author-customization.php:25
+msgid "Stripes effect"
+msgstr "Efeito de listras"
+
+#: configs/epico_author/epico_author-customization.php:26
+msgid "Add or remove the stripes effect."
+msgstr "Adicione ou remova o efeito de listras."
+
+#: configs/epico_author/epico_author-customization.php:28
+#: configs/epico_capture_widget/epico_capture_widget-video.php:35
+#: configs/epico_capture_widget/epico_capture_widget-video.php:49
+#: configs/epico_capture_widget/epico_capture_widget-video.php:56
+#: configs/epico_capture_widget/epico_capture_widget-video.php:102
+#: configs/epico_capture_widget/epico_capture_widget-video.php:109
+#: configs/epico_capture_widget/epico_capture_widget-video.php:116
+#: configs/epico_capture_widget/epico_capture_widget-video.php:123
+msgid "*1||On,2||Off"
+msgstr "*1||Ligado,2||Desligado"
+
+#: configs/epico_author/epico_author-edit-colors.php:19
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:19
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:19
+#: configs/epico_links/epico_links-edit-colors.php:19
+#: configs/epico_pages/epico_pages-edit-colors.php:19
+#: configs/epico_pop/epico_pop-edit-colors.php:19
+#: configs/epico_social/epico-social-edit-colors.php:19
+msgid "Edit widget colors"
+msgstr "Editar cores do widget"
+
+#: configs/epico_author/epico_author-edit-colors.php:20
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:20
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:20
+#: configs/epico_links/epico_links-edit-colors.php:20
+#: configs/epico_notice/epico_notice-edit-colors.php:20
+#: configs/epico_pages/epico_pages-edit-colors.php:20
+#: configs/epico_pop/epico_pop-edit-colors.php:20
+#: configs/epico_social/epico-social-edit-colors.php:20
+msgid ""
+"Enable this to allow the default widget colors to be overriden. Then you can "
+"define custom values using the options below."
+msgstr ""
+"Ative esta opção para permitir que as cores padrão do widget sejam "
+"sobrescritas. Você poderá então definir novas opções pelos campos abaixo."
+
+#: configs/epico_author/epico_author-edit-colors.php:22
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:28
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:35
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:22
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:22
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:52
+#: configs/epico_capture_widget/epico_capture_widget-video.php:42
+#: configs/epico_capture_widget/epico_capture_widget-video.php:63
+#: configs/epico_capture_widget/epico_capture_widget-video.php:88
+#: configs/epico_capture_widget/epico_capture_widget-video.php:95
+#: configs/epico_links/epico_links-edit-colors.php:22
+#: configs/epico_pages/epico_pages-edit-colors.php:22
+#: configs/epico_social/epico-social-edit-colors.php:22
+msgid "1||On,*2||Off"
+msgstr "1||Ligado,*2||Desligado"
+
+#: configs/epico_author/epico_author-edit-colors.php:26
+#: configs/epico_links/epico_links-edit-colors.php:26
+#: configs/epico_notice/epico_notice-edit-colors.php:26
+#: configs/epico_pages/epico_pages-edit-colors.php:26
+#: configs/epico_pop/epico_pop-edit-colors.php:26
+msgid "Background color"
+msgstr "Cor do fundo"
+
+#: configs/epico_author/epico_author-edit-colors.php:27
+#: configs/epico_links/epico_links-edit-colors.php:27
+#: configs/epico_pages/epico_pages-edit-colors.php:27
+#: configs/epico_pop/epico_pop-edit-colors.php:27
+msgid "Select a background color for the widget."
+msgstr "Selecione uma cor para o fundo do widget."
+
+#: configs/epico_author/epico_author-edit-colors.php:32
+#: configs/epico_notice/epico_notice-edit-colors.php:38
+msgid "Button's background color"
+msgstr "Cor do fundo do botão"
+
+#: configs/epico_author/epico_author-edit-colors.php:33
+#: configs/epico_notice/epico_notice-edit-colors.php:39
+msgid "Select a background color for the button."
+msgstr "Selecione uma cor para o fundo do botão."
+
+#: configs/epico_author/epico_author-edit-colors.php:38
+#: configs/epico_notice/epico_notice-edit-colors.php:32
+#: configs/epico_pop/epico_pop-edit-colors.php:32
+msgid "Main text color"
+msgstr "Cor do texto"
+
+#: configs/epico_author/epico_author-edit-colors.php:39
+#: configs/epico_pop/epico_pop-edit-colors.php:33
+msgid "Select a color for the widget main text."
+msgstr "Selecione uma cor para o texto do widget."
+
+#: configs/epico_author/epico_author-edit-colors.php:44
+#: configs/epico_notice/epico_notice-edit-colors.php:50
+msgid "Button's text color"
+msgstr "Cor do texto do botão"
+
+#: configs/epico_author/epico_author-edit-colors.php:45
+#: configs/epico_notice/epico_notice-edit-colors.php:51
+msgid "Select a color for the button's text."
+msgstr "Selecione uma cor para o texto do botão."
+
+#: configs/epico_author/epico_author-edit-colors.php:50
+msgid "Button's background color (hover state)."
+msgstr "Cor do fundo do botão quando o mouse estiver sobre ele."
+
+#: configs/epico_author/epico_author-edit-colors.php:51
+#: configs/epico_notice/epico_notice-edit-colors.php:45
+msgid "Select a background color for the button's hover state."
+msgstr ""
+"Selecione uma cor de fundo para o botão (aparecerá quando o mouse estiver "
+"sobre ele)."
+
+#: configs/epico_author/epico_author-image.php:14
+#: configs/epico_image/epico_image-image.php:14
+#: includes/templates/template-epico_image.php:21
+msgid "Image"
+msgstr "Imagem"
+
+#: configs/epico_author/epico_author-image.php:19
+msgid "Author image upload"
+msgstr "Envio da foto"
+
+#: configs/epico_author/epico_author-image.php:20
+msgid ""
+"Upload an image file with 200px x 200px maximum. If your image is bigger "
+"than that, you can edit within WordPress itself. (<strong>Edit image</"
+"strong> will appear after the upload)."
+msgstr ""
+"Envie uma imagem com tamanho máximo de 200 x 200 pixels. Se sua imagem for "
+"maior, reduza pelo próprio WordPress (o link <strong>Editar Imagem</strong> "
+"aparecerá após o envio)."
+
+#: configs/epico_author/epico_author-image.php:25
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:37
+#: configs/epico_image/epico_image-image.php:31
+msgid "Image alt text"
+msgstr "Texto alternativo (Alt) da imagem"
+
+#: configs/epico_author/epico_author-image.php:26
+msgid ""
+"The IMG tag needs an alternative text, useful for screen readers and search "
+"engine optimization."
+msgstr ""
+"A imagem precisa de um texto alternativo, útil para pessoas com necessidades "
+"especiais e para os mecanismos de busca."
+
+#: configs/epico_author/epico_author-texts.php:19
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:19
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:19
+#: configs/epico_pop/epico_pop-title.php:14
+#: configs/epico_social/epico-social-title.php:14
+#: configs/epico_social/epico-social-title.php:19
+msgid "Title"
+msgstr "Título"
+
+#: configs/epico_author/epico_author-texts.php:20
+msgid "Add here your name or another relevant text for the title."
+msgstr "Adicione o seu nome aqui – ou outro texto relevante para o título."
+
+#: configs/epico_author/epico_author-texts.php:22
+msgid "About the author"
+msgstr "Sobre o autor"
+
+#: configs/epico_author/epico_author-texts.php:25
+msgid "Introductory text"
+msgstr "Texto de introdução"
+
+#: configs/epico_author/epico_author-texts.php:26
+msgid ""
+"A brief text to introduce the author or the website. This field allows the "
+"\"strong\" and \"em HTML tags."
+msgstr ""
+"Um breve texto para introduzir o autor ou o blog. Este campo permite as tags "
+"HTML \"strong\" (negrito) e \"em\" (italico)."
+
+#: configs/epico_author/epico_author-texts.php:28
+msgid ""
+"Add here your introductory text. You can apply the \"strong\" and \"em\" "
+"tags to the text, if necessary."
+msgstr ""
+"Adicione aqui seu texto introdutório. Você pode aplicar as tags HTML \"strong"
+"\" e \"em\" ao texto, se necessário."
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:25
+msgid "Compact version"
+msgstr "Versão compacta"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:26
+msgid ""
+"This will reduce the box size considerably. To compact the box even more, "
+"let the text fields empty in the \"Texts\" tab above."
+msgstr ""
+"Esta opção reduzirá o tamanho da caixa da captura consideravelmente. Para "
+"torná-la ainda mais compacta, remova os textos dos campos na aba \"Texto\", "
+"acima."
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:32
+msgid "Wide version"
+msgstr "Largura total"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:33
+msgid "This will fully expand the box to the content's width."
+msgstr "Isso expandirá totalmente a caixa para a largura do conteúdo."
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:39
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:67
+msgid "Open in new window"
+msgstr "Abrir em uma nova janela"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:40
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:68
+msgid ""
+"Would you like to open a new window after the visitor clicks the submit "
+"button?"
+msgstr ""
+"Você gostaria de abrir uma nova janela após o assinante clicar no botão de "
+"cadastro na lista?"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:42
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:70
+msgid "*1||New window,2||Same window"
+msgstr "*1||Nova janela,2||Mesma janela"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:46
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:74
+msgid "Animations"
+msgstr "Animações"
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:47
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:75
+msgid "You can disable all animations if necessary."
+msgstr "Você pode disabilitar todas as animações se necessário."
+
+#: configs/epico_capture_sc/epico_capture_sc-customization.php:49
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:77
+msgid "*1||Animations On,2||Animations Off"
+msgstr "*1||Ativar animações,2||Desativar animações"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:26
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:26
+#: configs/epico_social/epico-social-edit-colors.php:50
+msgid "Widget background color"
+msgstr "Cor do fundo do widget"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:27
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:27
+msgid "Choose a background color for the widget."
+msgstr "Selecione a cor de fundo do widget."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:32
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:32
+msgid "Subscribe form background color"
+msgstr "Cor de fundo do formulário de assinatura"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:33
+msgid "Choose a background color for the subscribe form."
+msgstr "Selecione a cor de fundo do formulário de assinatura."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:38
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:44
+msgid "Title color"
+msgstr "Cor do título"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:39
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:45
+msgid "Choose a color for the widget title."
+msgstr "Selecione uma cor para o título do widget."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:44
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:50
+#: configs/epico_links/epico_links-edit-colors.php:44
+#: configs/epico_pages/epico_pages-edit-colors.php:44
+#: configs/epico_social/epico-social-edit-colors.php:32
+msgid "Icon color"
+msgstr "Cor do ícone"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:45
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:51
+msgid "Choose a color for the icon."
+msgstr "Selecione uma cor para o ícone."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:50
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:56
+msgid "Arrow color"
+msgstr "Cor da seta"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:51
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:57
+msgid "Choose a color for the arrow."
+msgstr "Selecione uma cor para a seta."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:56
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:62
+msgid "Intro text color"
+msgstr "Intro text color"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:57
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:63
+msgid "Choose a color for the introductory text."
+msgstr "Selecione uma cor para o texto de introdução do widget."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:62
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:68
+msgid "Link color"
+msgstr "Cor do link"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:63
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:69
+msgid "Choose a color for links added to the text fields."
+msgstr "Selecione uma cor para os links adicionados nos campos de texto."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:68
+msgid "Field background color"
+msgstr "Cor do fundo dos campos"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:69
+msgid "Choose a background color for the Field."
+msgstr "Selecione uma cor para o fundo dos campos."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:74
+msgid "Field text color"
+msgstr "Cor do texto dos campos"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:75
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:87
+msgid "Choose a color for the field's text."
+msgstr "Selecione uma cor para o texto dos campos."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:80
+msgid "Field placeholder color"
+msgstr "Cor do texto de amostra dos campos"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:81
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:93
+msgid "Choose a color for the field's placeholder text."
+msgstr "Selecione uma cor para o texto de amostra dos campos."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:86
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:98
+msgid "Submit button background color"
+msgstr "Cor do fundo do botão de confirmação"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:87
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:99
+msgid "Choose a background color for the submit button."
+msgstr "Selecione uma cor para o fundo do botão de confirmação."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:92
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:104
+msgid "Submit button background color (hover)"
+msgstr "Cor do fundo do botão de confirmação (hover)"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:93
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:105
+msgid "Choose background color for the submit button's hover state."
+msgstr ""
+"Selecione uma cor para o botão (ativado quando o mouse estiver sobre ele)."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:98
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:110
+msgid "Submit button text color"
+msgstr "Cor do texto do botão"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:99
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:111
+msgid "Choose a color for the submit button's text."
+msgstr "Selecione uma cor para o texto do botão."
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:104
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:116
+#: configs/epico_pop/epico_pop-edit-colors.php:56
+msgid "Widget bottom border color"
+msgstr "Cor da borda inferior do widget"
+
+#: configs/epico_capture_sc/epico_capture_sc-edit-colors.php:105
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:117
+#: configs/epico_pop/epico_pop-edit-colors.php:57
+msgid "Choose a color for the widget bottom border."
+msgstr "Selecione uma cor para a borda inferior do widget."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:14
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:14
+msgid "Email marketing"
+msgstr "E-mail marketing"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:19
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:19
+msgid "Email marketing service"
+msgstr "Serviço de e-mail marketing"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:20
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:20
+msgid "Choose your e-mail marketing service and fill all required fields."
+msgstr "Selecione o seu serviço de e-mail marketing e preencha os campos."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:22
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:22
+msgid ""
+"*0||Select an option,1||MailChimp,2||Aweber,3||MadMimi,4||Campaign "
+"Monitor,5||e-Goi,6||Get Response,7||Mailee.Me,8||Mail Relay,9||Klick "
+"Mail,10||ArpReach,11||ActiveCampaign,12||RD Station,13||Lead Lovers,14||"
+"Sendy,15||Benchmark,16||Mailster,17||TrafficWave,18||InfusionSoft,19||Google "
+"Forms,20||MailPoet,21||Mautic,22||Lahar,999||Custom integration"
+msgstr ""
+"*0||Selecione uma opção,1||MailChimp,2||Aweber,3||MadMimi,4||Campaign "
+"Monitor,5||e-Goi,6||Get Response,7||Mailee.Me,8||Mail Relay,9||Klick "
+"Mail,10||ArpReach,11||ActiveCampaign,12||RD Station,13||Lead Lovers,14||"
+"Sendy,15||Benchmark,16||Mailster,17||TrafficWave,18||InfusionSoft,19||Google "
+"Forms,20||MailPoet,21||Mautic,22||Lahar,999||Integração personalizada"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:25
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:25
+msgid "HTML Form action"
+msgstr "Ação do formulário de envio"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:26
+msgid "Insert your form action."
+msgstr "Ação do formulário."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:31
+msgid "List ID"
+msgstr "Identificador (ID) da sua lista"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:32
+msgid "Insert the unique ID of your list."
+msgstr "ID único da sua lista."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:37
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:37
+msgid "Group ID"
+msgstr "ID do seu grupo"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:38
+msgid "Insert the unique ID of your group."
+msgstr "ID do seu grupo."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:43
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:43
+msgid "Redirect URL"
+msgstr "URL de redirecionamento"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:44
+msgid "Insert a custom redirect URL after your form submission."
+msgstr ""
+"Adicione um endereço web personalizado para direcionar o assinante após o "
+"envio do formulário."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:49
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:49
+msgid "Already subscribed Redirect URL"
+msgstr "URL de redirecionamento para assinantes já cadastrados"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:50
+msgid "Insert a custom redirect URL for already subscribed visitors."
+msgstr "URL para redirecionamento de assinantes já cadastrados."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:55
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:55
+msgid "Unique ID"
+msgstr "Identificador (ID) único"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:56
+msgid "Insert your unique ID."
+msgstr "Identificador único (ID)."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:61
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:61
+msgid "Client identification"
+msgstr "Identificação do cliente"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:62
+msgid "Insert your client identification."
+msgstr "Identificador (ID) de cliente."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:67
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:67
+msgid "Email field ID"
+msgstr "Identificador do campo de e-mail"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:68
+msgid "Insert your e-mail field ID."
+msgstr "ID do campo de e-mail."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:73
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:73
+msgid "Unique Token"
+msgstr "Token único"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:74
+msgid "Insert your token here."
+msgstr "Seu token."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:79
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:79
+msgid "Subscription confirmed page"
+msgstr "Página de confirmação de assinatura"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:80
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:80
+msgid "Custom redirect URL for subscription confirmation."
+msgstr "URL de redirecionamento após a assinatura."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:85
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:85
+msgid "Form ID"
+msgstr "ID do formulário"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:86
+msgid "Insert the unique ID of your form."
+msgstr "ID do seu formulário."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:91
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:91
+msgid "Tracking code"
+msgstr "Código de Rastreamento"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:92
+msgid "Insert the tracking code."
+msgstr "Código de Rastreamento."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:97
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:97
+msgid "Campaign ID"
+msgstr "Identificador da campanha"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:98
+msgid "Insert the ID of your campaign."
+msgstr "ID da sua campanha."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:103
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:103
+msgid "Mailster Instructions"
+msgstr "Instruções do Mailster"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:104
+msgid ""
+"Please also configure your Mailster form in \"Newsletter > Forms\" in your "
+"WordPress."
+msgstr ""
+"Configure também o seu formulário do Mailster em <strong>Newsletter > "
+"Formulários\" no admin do seu WordPress."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:109
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:109
+msgid "Opt-in mode"
+msgstr "Tipo de opt-in"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:110
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:110
+msgid "Selec an opt-in mode."
+msgstr "Selecione um tipo de opt-in."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:112
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:112
+msgid "1||Single Opt-in,*2||Double opt-in"
+msgstr "1||Opt-in simples,*2||Opt-in duplo"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:116
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:116
+msgid "Start cycle day"
+msgstr "Início do ciclo"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:117
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:117
+msgid "Day of the autoresponder cycle (optional)."
+msgstr "Dia do ciclo do auto-responder (opcional)."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:122
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:122
+msgid "API Key"
+msgstr "Chave de API"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:123
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:123
+msgid "Your API Key."
+msgstr "Sua chave de API."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:128
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:128
+msgid "Custom Form code"
+msgstr "Código de formulário personalizado"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:129
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:129
+msgid "Add a custom HTML Form code here."
+msgstr "Adicione o código de formulário HTML personalizado aqui."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:134
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:134
+msgid "Lead tracking"
+msgstr "Lead tracking"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:135
+msgid ""
+"Enable lead navigation tracking on your form. Important! You will also need "
+"to add your tracking code on the \"Advanced\" section of this pannel."
+msgstr ""
+"Ative o lead tracking no seu formulário. Importante! Você também precisará "
+"adicionar seu código de acompanhamento na seção \"Avançado\"."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:137
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:46
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:137
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:52
+msgid "1||Activate,*2||Deactivate"
+msgstr "1||Ligado,*2||Desligado"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:141
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:141
+msgid "Name field"
+msgstr "Campo \"Nome\""
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:142
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:142
+msgid "\"Name\" field."
+msgstr "Campo \"Nome\""
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:144
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:144
+msgid "1||Enable,*2||Disable"
+msgstr "1||Ligado,*2||Desligado"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:148
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:148
+msgid "Name field ID"
+msgstr "ID do campo \"Nome\""
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:149
+msgid "Insert below your name field ID."
+msgstr "ID do campo \"Nome\"."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:154
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:154
+msgid "Version"
+msgstr "Versão"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:155
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:155
+msgid "Choose the MailPoet version."
+msgstr "Selecione a versão do MailPoet."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:157
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:157
+msgid "1||Version 2,*2||Version 3"
+msgstr "1||Versão 2,*2||Versão 3"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:161
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:161
+msgid "Subscription error page"
+msgstr "Página de erro de assinatura"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:162
+msgid "Insert below a custom redirect URL for subscription error."
+msgstr "URL para redirecionamento para erros na assinatura."
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:167
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:167
+msgid "GDPR field ID"
+msgstr "ID do campo LGPD/GDPR"
+
+#: configs/epico_capture_sc/epico_capture_sc-email-marketing.php:168
+msgid "Insert below the ID for the GDPR field."
+msgstr "Insira abaixo o ID do campo LGPD."
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:19
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:19
+msgid "Default icon"
+msgstr "Ícone padrão"
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:20
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:20
+#: configs/epico_pop/epico_pop-title.php:26
+msgid ""
+"You can add an icon next to the main title. Visit minha.uberfacil.com/icones "
+"to see all available icons. Just choose an icon and click on it to copy it's "
+"ID to the clipboard. Next, paste it here."
+msgstr ""
+"Você pode adicionar um ícone para acompanhar o título. Visite \"minha."
+"uberfacil.com/icones\"  para visualizar as opções de ícones disponíveis. Na "
+"página que abrirá, clique sobre o ícone desejado para copiar o respectivo "
+"código identificador para a área de transferência. Em seguida, cole-o neste "
+"campo."
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:25
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:25
+msgid "Upload a custom icon"
+msgstr "Envio de ícone personalizado"
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:26
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:26
+msgid ""
+"You can alternatively upload a custom image for your icon. We recommend a "
+"small image (maximum width: 200px), to preserve page performance."
+msgstr ""
+"Você pode enviar uma imagem de ícone personalizada, caso não queira utilizar "
+"os ícones padrão disponibilizados. Para não prejudicar a performance do "
+"site, use uma imagem pequena, com 200 pixels de largura máxima."
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:31
+msgid "Icon animation"
+msgstr "Animação do ícone"
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:32
+msgid "Choose an animation style for the icon."
+msgstr "Escolha uma animação para o ícone após o carregamento da página."
+
+#: configs/epico_capture_sc/epico_capture_sc-icon.php:34
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:65
+msgid ""
+"1||Fade In Down,2||Fade In Up,3||Fade In,4||Bounce In,5||Shake,6||Swing,7||"
+"Roll In,*8||Rotate In"
+msgstr ""
+"1||Dissolver (de cima para baixo),2||Dissolver (de baixo para cima),3||"
+"Dissolver,4||Pular,5||Tremer,6||Balançar,7||Rolar,*8||Rodar"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:20
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:20
+msgid "Main title for the subscription form. Optimized for 6 words maximum."
+msgstr ""
+"Título para a caixa de captura de e-mails. Recomenda-se um título curto, com "
+"seis palavras no máximo."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:22
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:22
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:28
+msgid "Focus, impact and creativity"
+msgstr "Foco, impacto e criatividade"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:25
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:31
+msgid "Title tag"
+msgstr "Nível de cabeçalho do título"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:26
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:32
+msgid "Change the header level."
+msgstr "Selecione o nível de cabeçalho do título."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:28
+msgid "*0||Header level 4,1||Header level 3,2||Paragraph"
+msgstr ""
+"*0||Cabeçalho nível 4 (h4),1||Cabeçalho nível 3 (h3),2||Parágrafo comum"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:31
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:37
+msgid "Intro text"
+msgstr "Texto de introdução"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:32
+msgid "Add a brief introductory text."
+msgstr "Adicione um texto breve de introdução."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:34
+msgid "Please enter your e-mail address below to get free blog updates!"
+msgstr ""
+"Insira o seu endereço de e-mail abaixo para receber <strong>grátis</strong> "
+"as atualizações do blog!"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:37
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:43
+msgid "Anti-spam notice"
+msgstr "Aviso anti-spam"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:38
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:44
+msgid ""
+"Text for the anti-spam notice that sits close to the subscription form. "
+"Optimized for 10 words maximum."
+msgstr ""
+"Texto para o aviso anti-spam, situado ao lado do formulário de assinatura da "
+"newsletter. Otimizado para frases com no máximo 10 palavras."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:40
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:46
+msgid "Your e-mail is completely SAFE with us!"
+msgstr ""
+"Fique tranquilo, seu e-mail está completamente <strong>SEGURO</strong> "
+"conosco!"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:43
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:49
+msgid "Consent checkbox"
+msgstr "Caixa de seleção para consentimento"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:44
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:50
+msgid ""
+"GDPR: activate this option to add an additional checkbox inside the anti-"
+"spam notice, useful for enforcing the GDPR law. Note: you must review the "
+"anti-spam notice text to explicitly ask for consent. Also, you need to add a "
+"new custom field named \"gdpr\" in your email marketing service to receive "
+"the data sent by the Épico Capture widget."
+msgstr ""
+"LGPD/GDPR: ative esta opção para adicionar uma caixa de seleção adicional "
+"dentro do aviso anti-spam, útil para aplicar as leis LGPD ou GDPR. Nota: "
+"você deve revisar o texto do aviso anti-spam para solicitar explicitamente o "
+"consentimento. Além disso, você precisa adicionar um novo campo "
+"personalizado chamado \"gdpr\" (assim mesmo, em minúsculas) em seu serviço "
+"de e-mail marketing para receber os dados enviados pelo widget Épico Capture."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:50
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:56
+msgid "Email field text"
+msgstr "Texto do campo de e-mail"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:51
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:57
+msgid ""
+"Add here the placeholder text that will show up inside the e-mail field."
+msgstr "Adicione aqui o texto que aparecerá dentro do campo de e-mail."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:53
+msgid "Your email"
+msgstr "Seu e-mail"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:56
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:62
+msgid "Name field text"
+msgstr "Texto do campo Nome"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:57
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:63
+msgid ""
+"Add here the placeholder text that will show up inside the name field. Note: "
+"you must also activate the name field option in the Email Marketing tab."
+msgstr ""
+"Adicione aqui o texto que vai aparecer dentro do campo \"Nome\". Nota: você "
+"também deve ativar o campo \"Nome\" na aba \"E-mail Marketing\"."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:59
+msgid "Your name"
+msgstr "Seu nome"
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:63
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:69
+msgid "Add a text for the submit button."
+msgstr "Adicione aqui o texto para o botão de confirmação."
+
+#: configs/epico_capture_sc/epico_capture_sc-texts.php:65
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:71
+#: includes/templates/template-epico_capture_sc.php:220
+#: includes/templates/template-epico_capture_sc.php:258
+#: includes/templates/template-epico_capture_sc.php:283
+#: includes/templates/template-epico_capture_sc.php:312
+#: includes/templates/template-epico_capture_sc.php:352
+#: includes/templates/template-epico_capture_sc.php:377
+#: includes/templates/template-epico_capture_sc.php:416
+#: includes/templates/template-epico_capture_sc.php:451
+#: includes/templates/template-epico_capture_sc.php:478
+#: includes/templates/template-epico_capture_sc.php:503
+#: includes/templates/template-epico_capture_sc.php:542
+#: includes/templates/template-epico_capture_sc.php:567
+#: includes/templates/template-epico_capture_sc.php:602
+#: includes/templates/template-epico_capture_sc.php:631
+#: includes/templates/template-epico_capture_sc.php:662
+#: includes/templates/template-epico_capture_sc.php:695
+#: includes/templates/template-epico_capture_sc.php:732
+#: includes/templates/template-epico_capture_sc.php:761
+#: includes/templates/template-epico_capture_sc.php:808
+#: includes/templates/template-epico_capture_sc.php:874
+#: includes/templates/template-epico_capture_sc.php:909
+#: includes/templates/template-epico_capture_sc.php:942
+#: includes/templates/template-epico_capture_sc.php:1016
+#: includes/templates/template-epico_capture_widget.php:365
+#: includes/templates/template-epico_capture_widget.php:403
+#: includes/templates/template-epico_capture_widget.php:428
+#: includes/templates/template-epico_capture_widget.php:457
+#: includes/templates/template-epico_capture_widget.php:497
+#: includes/templates/template-epico_capture_widget.php:522
+#: includes/templates/template-epico_capture_widget.php:561
+#: includes/templates/template-epico_capture_widget.php:596
+#: includes/templates/template-epico_capture_widget.php:623
+#: includes/templates/template-epico_capture_widget.php:648
+#: includes/templates/template-epico_capture_widget.php:687
+#: includes/templates/template-epico_capture_widget.php:712
+#: includes/templates/template-epico_capture_widget.php:747
+#: includes/templates/template-epico_capture_widget.php:776
+#: includes/templates/template-epico_capture_widget.php:807
+#: includes/templates/template-epico_capture_widget.php:840
+#: includes/templates/template-epico_capture_widget.php:877
+#: includes/templates/template-epico_capture_widget.php:906
+#: includes/templates/template-epico_capture_widget.php:953
+#: includes/templates/template-epico_capture_widget.php:1019
+#: includes/templates/template-epico_capture_widget.php:1054
+#: includes/templates/template-epico_capture_widget.php:1087
+#: includes/templates/template-epico_capture_widget.php:1161
+msgid "Subscribe!"
+msgstr "Assine já!"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:25
+msgid "Span page width"
+msgstr "Largura total da página"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:26
+msgid ""
+"You can use the widget in the sidebar or spanning the whole width of your "
+"layout, if your theme allows."
+msgstr ""
+"Você pode utilizar o widget na barra lateral ou abrangendo toda a largura do "
+"site."
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:28
+msgid "1||Full page width,*2||Sidebar"
+msgstr "1||Largura total da página,*2||Barra lateral"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:32
+msgid "Fixed on scroll"
+msgstr "Fixar ao rolar a página"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:33
+msgid ""
+"(Note: this option is effective only for the widget area after the main "
+"sidebar). The widget can stay fixed as you scroll down or scroll normally "
+"with the content. To make the fixed option work, activate above the option "
+"(Sidebar)."
+msgstr ""
+"O widget pode permanecer fixo ao rolar a página ou rolar normalmente com o "
+"conteúdo. Para possibilitar que esta opção funcione corretamente, o widget "
+"deverá ser o último da área de widgets após a barra lateral. Além disso, a "
+"opção \"Barra lateral\" deverá ser habilitada."
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:35
+msgid "1||Fixed postion,*2||Scroll normally"
+msgstr "1||Posição fixa,*2||Posição normal"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:39
+msgid "Short version"
+msgstr "Versão resumida"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:40
+msgid ""
+"You can display a short version of the widget, containing just the "
+"subscription form."
+msgstr ""
+"Você pode exibir uma versão resumida do widget, contendo apenas o formulário "
+"de inscrição."
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:42
+msgid "1||Short version,*2||Default version"
+msgstr "1||Versão resumida,*2||Versão padrão"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:46
+msgid "Short version placement"
+msgstr "Local da versão simplificada"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:47
+msgid ""
+"Here you can choose where to apply the short version (turn on the short "
+"version first, right above)."
+msgstr ""
+"Aqui você pode selecionar onde aplicar a versão resumida (acione antes a "
+"versão resumida, logo acima)."
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:49
+msgid "1||All pages,*2||Just inner pages"
+msgstr "1||Todas as páginas,*2||Páginas internas"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:53
+#: configs/epico_notice/epico_notice-customization.php:38
+msgid "Close button"
+msgstr "Botão de fechar"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:54
+msgid ""
+"Would you like a close button in the right top corner of the widget? "
+"(Sidebar version only)"
+msgstr ""
+"Gostaria de adicionar um botão de fechar no canto superior direito do "
+"widget? (Apenas na versão para barra lateral)"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:56
+msgid "*1||Add close button,2||Omit close button"
+msgstr "*1||Mostrar botão,2||Não mostrar botão"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:60
+msgid "Display arrow"
+msgstr "Mostrar seta"
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:61
+msgid ""
+"Add an arrow icon below the introduction text pointing to the form (full "
+"page width version only)."
+msgstr ""
+"Adicione um ícone de seta abaixo o texto de introdução, apontando para o "
+"formulário (somente versão de largura de página inteira)."
+
+#: configs/epico_capture_widget/epico_capture_widget-customization.php:63
+msgid "*1||Add arrow,2||Remove arrow"
+msgstr "*1||Adicionar seta,2||Remover a seta"
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:33
+msgid "Choose a background color for the Subscribe form."
+msgstr "Selecione a cor de fundo do formulário de assinatura."
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:38
+msgid "Close button color"
+msgstr "Cor do botão de fechar"
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:39
+msgid "Choose a color for the close button, if active."
+msgstr "Selecione uma cor para o botão fechar, caso tenha sido ativado."
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:74
+msgid "Anti-spam notice text color"
+msgstr "Cor do texto do aviso anti-spam"
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:75
+msgid "Choose a color for the anti-spam notice text."
+msgstr "Selecione a cor do texto anti-spam."
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:80
+msgid "Field's background color"
+msgstr "Cor do fundo dos campos"
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:81
+msgid "Choose a background color for the fields."
+msgstr "Selecione uma cor para o fundo dos campos."
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:86
+msgid "Field's text color"
+msgstr "Cor do texto dos campos"
+
+#: configs/epico_capture_widget/epico_capture_widget-edit-colors.php:92
+msgid "Field's placeholder color"
+msgstr "Cor do texto de amostra dos campos"
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:26
+msgid "Form action."
+msgstr "Ação do formulário."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:31
+msgid "List or campaign ID"
+msgstr "ID da sua lista ou campanha"
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:32
+msgid "Unique ID of your list."
+msgstr "ID único da sua lista."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:38
+msgid "Unique ID of your group."
+msgstr "ID único do seu grupo."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:44
+msgid "Custom redirect URL after your form submission."
+msgstr ""
+"Endereço web personalizado para direcionar o assinante após o envio do "
+"formulário."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:50
+msgid ""
+"Custom redirect URL for already subscribed visitors. Leave unfilled if you "
+"want the default redirection page."
+msgstr ""
+"URL personalizada para redirecionamento de assinantes já cadastrados. Deixe "
+"em branco para a página padrão."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:56
+msgid "Unique ID."
+msgstr "Identificador (ID) único."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:62
+msgid "Client identification."
+msgstr "Identificação do cliente."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:68
+msgid "E-mail field ID."
+msgstr "Identificador do campo de e-mail."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:74
+msgid "Token."
+msgstr "Token."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:86
+msgid "Unique ID of your form."
+msgstr "ID do seu formulário."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:92
+msgid "Tracking code."
+msgstr "Código de Rastreamento."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:98
+msgid "ID of your campaign."
+msgstr "ID da sua campanha."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:104
+msgid ""
+"Please also configure your Mailster plugin in \"Newsletter > Settings in "
+"your WordPress."
+msgstr ""
+"Configure também o seu formulário do Mailster em \"Newsletter > Formulários"
+"\" no admin do seu WordPress."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:135
+msgid ""
+"Enable lead navigation tracking on your form. Important! You will also need "
+"to add your tracking code on the \"Advanced\" section of this panel."
+msgstr ""
+"Ative o lead tracking no seu formulário. Importante! Você também precisará "
+"adicionar seu código de acompanhamento na seção \"Avançado\"."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:149
+msgid "Name field ID."
+msgstr "ID do campo \"Nome\"."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:162
+msgid "Custom redirect URL for subscription error."
+msgstr "URL de redirecionamento para erro na assinatura."
+
+#: configs/epico_capture_widget/epico_capture_widget-email-marketing.php:168
+msgid "ID for the GDPR field."
+msgstr "ID do campo LGPD."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:14
+msgid "Icon or image"
+msgstr "Ícone ou imagem"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:31
+msgid "Intro image"
+msgstr "Imagem de introdução"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:32
+msgid ""
+"Replace the icon for an aside image to better illustrate the capture's "
+"intent (maximum width: 390px. Available only in the full page width version)."
+msgstr ""
+"Substitua o ícone por uma imagem lateral para melhor ilustrar a intenção da "
+"captura (largura máxima: 390px. Disponível somente na versão para largura de "
+"página inteira)."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:38
+msgid "Add an alternative text for your side image."
+msgstr "Adicione um texto alternativo para a sua imagem lateral."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:43
+msgid "Widget background image"
+msgstr "Imagem de fundo do widget"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:44
+msgid "Select a background image for the widget (optional)."
+msgstr "Selecione uma imagem de fundo para o widget (opcional)."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:49
+msgid "Overlay effect"
+msgstr "Efeito de sobreposição de cor"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:50
+msgid "You can add a color overlay effect to the background image."
+msgstr ""
+"Você pode adicionar um efeito de sobreposição de cor à imagem de fundo."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:56
+msgid "Overlay color"
+msgstr "Cor de sobreposição"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:57
+msgid "Choose a color for the overlay effect."
+msgstr "Selecione uma cor para o efeito de sobreposição."
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:62
+msgid "Icon or image animation"
+msgstr "Animação da imagem ou do ícone"
+
+#: configs/epico_capture_widget/epico_capture_widget-icon.php:63
+msgid ""
+"Choose an animation style that will be applied to the aside image or to the "
+"icon."
+msgstr ""
+"Escolha um estilo de animação que será aplicado à imagem lateral ou ao ícone."
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:25
+msgid "Capture's short version title"
+msgstr "Título da versão resumida"
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:26
+msgid ""
+"Add a text for the title of the Capture's short version. Important! in order "
+"to make this work, activate also the Capture's short version in the "
+"Customization tab."
+msgstr ""
+"Adicione o texto para o título da versão resumida do Capture. Importante! "
+"Para que esta opção tenha efeito, ative também a opção resumida do Capture "
+"na aba Personalização."
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:34
+msgid ""
+"*0||Header level 4 (h4),1||Header level 3 (h3),2||Header level 2 (h2),3||"
+"Header level 1 (h1),4||Paragraph (p)"
+msgstr ""
+"*0||Cabeçalho nível 4 (h4),1||Cabeçalho nível 3 (h3),2||Cabeçalho nível 2 "
+"(h2),3||Cabeçalho nível 1 (h1),4||Parágrafo comum (p)"
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:38
+msgid ""
+"Add a brief introductory text (not available in the short version of the "
+"widget)."
+msgstr ""
+"Adicione um breve texto introdutório (não disponível na versão curta do "
+"widget)."
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:40
+msgid "Enter your e-mail address below to get free blog updates!"
+msgstr ""
+"Insira o seu endereço de e-mail abaixo para receber <strong>gratuitamente</"
+"strong> as atualizações do blog!"
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:59
+msgid "Enter your email"
+msgstr "Insira seu e-mail aqui"
+
+#: configs/epico_capture_widget/epico_capture_widget-texts.php:65
+msgid "Enter your name"
+msgstr "Insira seu nome aqui"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:14
+#: configs/epico_capture_widget/epico_capture_widget-video.php:19
+msgid "Video"
+msgstr "Vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:20
+msgid ""
+"The video will play in a lightbox after clicking the central capture icon. "
+"After activating, please configure the options below. Note: this option only "
+"works when the \"Default version\" option is activated in the \"Customization"
+"\" tab of the widget."
+msgstr ""
+"O vídeo será reproduzido em uma janela modal após o clique no ícone central "
+"de captura. Depois de ativar esta opção configure também as opções abaixo. "
+"Observação: esta opção funciona apenas com a opção \"Versão padrão\" ativada "
+"na aba \"Personalização\" do widget."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:22
+msgid "1||Activate video,*2||Deactivate video"
+msgstr "1||Ativar vídeo,*2||Desativar vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:26
+msgid "Video URL"
+msgstr "URL do Vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:27
+msgid "Full video URL (Youtube or Vimeo only)."
+msgstr "URL completa do vídeo (apenas Youtube ou Vimeo)."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:32
+msgid "Autoplay"
+msgstr "Reprodução Automática"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:33
+msgid "Autoplay the video after the click."
+msgstr "Reproduzir automaticamente o vídeo após o clique."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:39
+msgid "Loop video"
+msgstr "Repetir Vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:40
+msgid "Continuous play of the video (loop)."
+msgstr "Reprodução contínua do vídeo (loop)."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:46
+msgid "Video information"
+msgstr "Informações do vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:47
+msgid "Display the video information."
+msgstr "Exibir as informações do vídeo."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:53
+msgid "Tooltip"
+msgstr "Dica (tooltip)"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:54
+msgid "Display a tooltip on mouse hover."
+msgstr "Mostrar dica ao pousar o mouse."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:60
+msgid "Fix tooltip"
+msgstr "Fixar dica"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:61
+msgid "Always display the tooltip."
+msgstr "Sempre exibir a dica."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:67
+msgid "Tooltip text"
+msgstr "Texto da dica"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:68
+msgid "Text for the tooltip."
+msgstr "Texto para a dica"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:70
+msgid "Click to open the video"
+msgstr "Clique para abrir o vídeo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:73
+msgid "Tooltip color"
+msgstr "Cor do pop-up da dica"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:74
+msgid "Choose the color for the tooltip."
+msgstr "Selecione uma cor para o pop-up da dica."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:79
+msgid "Youtube"
+msgstr "Youtube"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:80
+msgid "Youtube exclusive options"
+msgstr "Opções exclusivas do YouTube"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:85
+msgid "Branding"
+msgstr "Logotipo"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:86
+msgid "Remove the Youtube logo in the video control."
+msgstr "Remova o logotipo do Youtube do controle de vídeo."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:92
+msgid "Closed captions"
+msgstr "Legendas ocultas (closed caption)"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:93
+msgid "Display closed captions inside the video."
+msgstr "Exibir legendas dentro do vídeo."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:99
+msgid "Fullscreen"
+msgstr "Tela cheia"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:100
+msgid "Fullscreen mode button."
+msgstr "Botão do modo de tela cheia."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:106
+msgid "Related videos"
+msgstr "Vídeos relacionados"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:107
+msgid "Related videos after the video ends."
+msgstr "Mostrar vídeos relacionados quando o vídeo terminar"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:113
+msgid "Cookie"
+msgstr "Cookie"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:114
+msgid "Track with cookie."
+msgstr "Rastrear com cookie."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:120
+msgid "Controls"
+msgstr "Controles"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:121
+msgid "Video controls."
+msgstr "Controles do vídeo."
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:127
+msgid "Start"
+msgstr "Início"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:128
+msgid "Start playing at (in seconds)."
+msgstr "Iniciar reprodução a partir de (segundos)"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:133
+msgid "End"
+msgstr "Fim"
+
+#: configs/epico_capture_widget/epico_capture_widget-video.php:134
+msgid "Stop playing at (in seconds)."
+msgstr "Finalizar reprodução em (segundos)"
+
+#: configs/epico_image/epico_image-image.php:19
+msgid "Image upload"
+msgstr "Envio da imagem"
+
+#: configs/epico_image/epico_image-image.php:20
+msgid "Upload an image file."
+msgstr "Envie um arquivo de imagem."
+
+#: configs/epico_image/epico_image-image.php:25
+msgid "Image link"
+msgstr "Link da imagem"
+
+#: configs/epico_image/epico_image-image.php:26
+msgid "Insert the destination URL."
+msgstr "Insira a URL de destino."
+
+#: configs/epico_image/epico_image-image.php:32
+msgid "Insert the image Alt text."
+msgstr "Insira o texto alternativo da imagem."
+
+#: configs/epico_image/epico_image-image.php:37
+msgid "Widget title"
+msgstr "Título do widget"
+
+#: configs/epico_image/epico_image-image.php:38
+msgid "Insert a title above the image."
+msgstr "Insira um título acima da imagem."
+
+#: configs/epico_image/epico_image-image.php:44
+msgid "Choose one of the actions for image's link when is clicked."
+msgstr "Selecione uma ação para o link da imagem ao ser clicado."
+
+#: configs/epico_image/epico_image-image.php:49
+msgid "Link attribute"
+msgstr "Atributo do link"
+
+#: configs/epico_image/epico_image-image.php:50
+msgid "Choose an attribute for the image link."
+msgstr "Selecione um atributo para o link da imagem."
+
+#: configs/epico_image/epico_image-image.php:52
+msgid "*0||Do not follow,1||Follow"
+msgstr "*0||Não seguir (nofollow),1||Seguir"
+
+#: configs/epico_links/epico_links-customization.php:26
+#: configs/epico_pages/epico_pages-customization.php:26
+msgid "Choose one of the actions for the post link when clicked."
+msgstr "Selecione um ação para o link da página ao ser clicado."
+
+#: configs/epico_links/epico_links-customization.php:28
+#: configs/epico_pages/epico_pages-customization.php:28
+msgid "0||Open in new window,*1||Open in the same window"
+msgstr "0||Nova janela,*1||Mesma janela"
+
+#: configs/epico_links/epico_links-customization.php:31
+#: configs/epico_pages/epico_pages-customization.php:31
+msgid "Font weight"
+msgstr "Peso da fonte"
+
+#: configs/epico_links/epico_links-customization.php:32
+#: configs/epico_pages/epico_pages-customization.php:32
+msgid "Select a font weight for the text"
+msgstr "Selecione o peso da fonte"
+
+#: configs/epico_links/epico_links-customization.php:34
+#: configs/epico_pages/epico_pages-customization.php:34
+msgid "*1||Normal,2||Bold"
+msgstr "*1||Normal,2||Negrito"
+
+#: configs/epico_links/epico_links-edit-colors.php:32
+#: configs/epico_pages/epico_pages-edit-colors.php:32
+msgid "Background color (hover)"
+msgstr "Cor do fundo (hover)"
+
+#: configs/epico_links/epico_links-edit-colors.php:33
+#: configs/epico_pages/epico_pages-edit-colors.php:33
+msgid "Select a background color for the hover state."
+msgstr "Selecione uma cor de fundo para o estado hover."
+
+#: configs/epico_links/epico_links-edit-colors.php:38
+#: configs/epico_pages/epico_pages-edit-colors.php:38
+#: configs/epico_social/epico-social-edit-colors.php:26
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: configs/epico_links/epico_links-edit-colors.php:39
+#: configs/epico_pages/epico_pages-edit-colors.php:39
+msgid "Select a color for the text of the link."
+msgstr "Selecione a cor para o texto dos links."
+
+#: configs/epico_links/epico_links-edit-colors.php:45
+#: configs/epico_pages/epico_pages-edit-colors.php:45
+msgid "Select a color for the icon."
+msgstr "Selecione uma cor para o ícone."
+
+#: configs/epico_links/epico_links-links.php:14
+msgid "Links"
+msgstr "Links"
+
+#: configs/epico_links/epico_links-links.php:19
+msgid "Blog address (URL)"
+msgstr "Endereço do blog (URL)"
+
+#: configs/epico_links/epico_links-links.php:20
+msgid "Insert an URL for your link."
+msgstr "Adicione um endereço para o seu link."
+
+#: configs/epico_links/epico_links-links.php:25
+msgid "Link text"
+msgstr "Texto do link"
+
+#: configs/epico_links/epico_links-links.php:26
+msgid "Add a text to your link."
+msgstr "Adicione um texto para o seu link."
+
+#: configs/epico_links/epico_links-links.php:28
+msgid "My special link"
+msgstr "Link especial"
+
+#: configs/epico_links/epico_links-links.php:31
+msgid "Link icon"
+msgstr "Ícone do link"
+
+#: configs/epico_links/epico_links-links.php:32
+msgid ""
+"Select an icon to represent the link destination. Visit minha.uberfacil.com/"
+"icones to see all available icons. Just choose an icon and click on it to "
+"copy it's ID to the clipboard. Next, paste it here."
+msgstr ""
+"Você selecionar um ícone para representar o link de destino. Visite \"minha."
+"uberfacil.com/icones\"  para visualizar as opções de ícones disponíveis. Na "
+"página que abrirá, clique sobre o ícone desejado para copiar o respectivo "
+"código identificador para a área de transferência. Em seguida, cole-o neste "
+"campo."
+
+#: configs/epico_notice/epico_notice-customization.php:26
+msgid "Choose an action for the button when is clicked."
+msgstr "Selecione a ação do botão ao ser clicado."
+
+#: configs/epico_notice/epico_notice-customization.php:31
+msgid "Sticky box"
+msgstr "Fixo ao rolar"
+
+#: configs/epico_notice/epico_notice-customization.php:32
+msgid "Do you want to fix the box at the top of the site?"
+msgstr "Você deseja manter a caixa fixa no topo?"
+
+#: configs/epico_notice/epico_notice-customization.php:34
+#: configs/epico_notice/epico_notice-customization.php:48
+msgid "1||Yes,*2||No"
+msgstr "1||Sim,*2||Não"
+
+#: configs/epico_notice/epico_notice-customization.php:39
+msgid ""
+"Do you want a close button in the corner? The notice will reapear after page "
+"load. If you want do dismiss it permanently, activate the option bellow."
+msgstr ""
+"Deseja incluir um botão de fechar no canto direito do widget? Caso seja "
+"acionado, o aviso reaparecerá após o recarregamento da página. Se deseja "
+"permitir que o usuário dispense-o mesmo após o recarregamento, ative a opção "
+"abaixo."
+
+#: configs/epico_notice/epico_notice-customization.php:41
+msgid "*1||Yes,2||No"
+msgstr "*1||Sim,2||Não"
+
+#: configs/epico_notice/epico_notice-customization.php:45
+msgid "Dismiss after close"
+msgstr "Dispensar mesmo após o recarregamento da página"
+
+#: configs/epico_notice/epico_notice-customization.php:46
+msgid ""
+"This will add an action to the close button that will dismiss the box even "
+"after the page reload. After seven days, the box can appear again for the "
+"visitor."
+msgstr ""
+"Isto adicionará uma ação ao botão de fechar que irá dispensar o widget mesmo "
+"após o recarregamento da página, por 7 dias. Após este período, a caixa "
+"aparecerá novamente para o visitante, se ainda estiver ativa."
+
+#: configs/epico_notice/epico_notice-edit-colors.php:22
+msgid "*0||Off,1||On"
+msgstr "*0||Desligado,1||Ligado"
+
+#: configs/epico_notice/epico_notice-edit-colors.php:27
+msgid "Select a background color for the notice."
+msgstr "Selecione a cor de fundo do aviso."
+
+#: configs/epico_notice/epico_notice-edit-colors.php:33
+msgid "Select a color for the notice main text."
+msgstr "Selecione uma cor para o texto do aviso."
+
+#: configs/epico_notice/epico_notice-edit-colors.php:44
+msgid "Button's background color (hover state)"
+msgstr "Cor do fundo do botão (hover)"
+
+#: configs/epico_notice/epico_notice-texts.php:19
+msgid "Notice text"
+msgstr "Texto do aviso"
+
+#: configs/epico_notice/epico_notice-texts.php:20
+msgid "Add a brief text for the notice (10 words is a good limit)"
+msgstr ""
+"Adicione um texto breve para o aviso (o espaço foi otimizado para cerca de "
+"10 palavras)"
+
+#: configs/epico_notice/epico_notice-texts.php:22
+msgid "We have an important announcement for you!"
+msgstr "Temos um recado importante para você!"
+
+#: configs/epico_notice/epico_notice-texts.php:26
+msgid ""
+"Add some text for the button located right after the main text. Remove the "
+"text to ommit the button from the layout."
+msgstr ""
+"Insira um texto para o botão localizado logo após o texto principal. Deixe "
+"em branco para omití-lo do layout."
+
+#: configs/epico_notice/epico_notice-texts.php:28
+msgid "Click here"
+msgstr "Clique aqui"
+
+#: configs/epico_notice/epico_notice-texts.php:32
+msgid "Add a link for the button, including the https://"
+msgstr "Adicione um link ao botão, incluindo o https://"
+
+#: configs/epico_pages/epico_pages-pages.php:14
+msgid "Pages"
+msgstr "Páginas"
+
+#: configs/epico_pages/epico_pages-pages.php:19
+msgid "Page selection"
+msgstr "Seleção de paginas"
+
+#: configs/epico_pages/epico_pages-pages.php:20
+msgid ""
+"Select a page to include in the list. You can add more links clicking \"Add "
+"another\", below."
+msgstr ""
+"Selecione uma página para incluir na lista. Você pode adicionar mais links "
+"clicando no botão \"Adicionar outro\", abaixo."
+
+#: configs/epico_pages/epico_pages-pages.php:25
+msgid "Page title"
+msgstr "Título da página"
+
+#: configs/epico_pages/epico_pages-pages.php:26
+msgid "Add a text to the page link."
+msgstr "Adicione o texto do link para a página."
+
+#: configs/epico_pages/epico_pages-pages.php:28
+msgid "My special page"
+msgstr "Página especial"
+
+#: configs/epico_pages/epico_pages-pages.php:31
+msgid "Page icon"
+msgstr "Ícone da página"
+
+#: configs/epico_pages/epico_pages-pages.php:32
+msgid ""
+"Select an icon to represent the page. Visit minha.uberfacil.com/icones to "
+"see all available icons. Just choose an icon and click on it to copy it's ID "
+"to the clipboard. Next, paste it here."
+msgstr ""
+"Você pode adicionar um ícone para representar a página. Visite \"minha."
+"uberfacil.com/icones\"  para visualizar as opções de ícones disponíveis. Na "
+"página que abrirá, clique sobre o ícone desejado para copiar o respectivo "
+"código identificador para a área de transferência. Em seguida, cole-o neste "
+"campo."
+
+#: configs/epico_pop/epico_pop-articles.php:14
+msgid "Articles"
+msgstr "Artigos"
+
+#: configs/epico_pop/epico_pop-articles.php:19
+msgid "Article selection"
+msgstr "Seleção de artigos"
+
+#: configs/epico_pop/epico_pop-articles.php:20
+msgid ""
+"Select an article to include in the list. You can add more articles clicking "
+"\"Add another\", below."
+msgstr ""
+"Selecione um artigo para incluir na lista. Você pode adicionar mais links "
+"clicando no botão \"Adicionar outro\", abaixo."
+
+#: configs/epico_pop/epico_pop-customization.php:26
+msgid "Choose one of the actions for the link when clicked."
+msgstr "Selecione uma ação para o link quando clicado."
+
+#: configs/epico_pop/epico_pop-edit-colors.php:22
+msgid "0||On,*1||Off"
+msgstr "0||Ligado,*1||Desligado"
+
+#: configs/epico_pop/epico_pop-edit-colors.php:38
+msgid "Title icon color"
+msgstr "Cor para o ícone do título"
+
+#: configs/epico_pop/epico_pop-edit-colors.php:39
+msgid "Select a color for the icon in the title."
+msgstr "Selecione uma cor para o ícone ao lado do título."
+
+#: configs/epico_pop/epico_pop-edit-colors.php:44
+msgid "Titles's background color"
+msgstr "Cor do fundo do título"
+
+#: configs/epico_pop/epico_pop-edit-colors.php:45
+msgid "Select a background color for the title."
+msgstr "Selecione uma cor de fundo para o titulo."
+
+#: configs/epico_pop/epico_pop-edit-colors.php:50
+msgid "Title's text color"
+msgstr "Cor do título"
+
+#: configs/epico_pop/epico_pop-edit-colors.php:51
+msgid "Select a color for the title's text."
+msgstr "Selecione uma cor para o título."
+
+#: configs/epico_pop/epico_pop-title.php:19
+msgid "Title text"
+msgstr "Texto do título"
+
+#: configs/epico_pop/epico_pop-title.php:20
+#: configs/epico_social/epico-social-title.php:20
+msgid "Add a title for the widget. Leave it blank to ommit it in the frontend."
+msgstr ""
+"Adicione um título para seu widget. Deixe em branco para omitir o espaço que "
+"ocuparia no layout."
+
+#: configs/epico_pop/epico_pop-title.php:22
+msgid "Popular posts"
+msgstr "Artigos populares"
+
+#: configs/epico_social/epico-social-customization.php:26
+msgid "Choose one of the actions for social network button when clicked."
+msgstr "Selecione uma ação para o botão da rede social ao ser clicado."
+
+#: configs/epico_social/epico-social-customization.php:31
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: configs/epico_social/epico-social-customization.php:32
+msgid "Define an alignment for widget contents (icons and text)."
+msgstr "Defina um alinhamento para o conteúdo do widget (ícones e texto)."
+
+#: configs/epico_social/epico-social-customization.php:34
+msgid "*0||Center,1||Left,2||Right"
+msgstr "*0||Centralizado,1||Alinhado à esquerda,2||Alinhado à direita"
+
+#: configs/epico_social/epico-social-edit-colors.php:27
+msgid "Select a color for the text."
+msgstr "Selecione a cor para o texto."
+
+#: configs/epico_social/epico-social-edit-colors.php:33
+msgid "Select the icon's color."
+msgstr "Selecione uma cor para o ícone."
+
+#: configs/epico_social/epico-social-edit-colors.php:38
+msgid "Icon background color"
+msgstr "Cor de fundo do ícone"
+
+#: configs/epico_social/epico-social-edit-colors.php:39
+msgid "Select the icon's background color."
+msgstr "Selecione a cor de fundo para o ícone."
+
+#: configs/epico_social/epico-social-edit-colors.php:44
+msgid "Icon border color"
+msgstr "Cor da borda do ícone"
+
+#: configs/epico_social/epico-social-edit-colors.php:45
+msgid "Select the icon's border color."
+msgstr "Selecione uma cor para a borda do ícone."
+
+#: configs/epico_social/epico-social-edit-colors.php:51
+msgid "Select the widget's background color."
+msgstr "Selecione a cor de fundo para o widget."
+
+#: configs/epico_social/epico-social-networks.php:14
+msgid "Social networks"
+msgstr "Redes sociais"
+
+#: configs/epico_social/epico-social-networks.php:19
+msgid "Social network"
+msgstr "Rede social"
+
+#: configs/epico_social/epico-social-networks.php:20
+msgid ""
+"Choose a social network to include in the widget. You can add more links to "
+"social networks clicking \"Add another\", below."
+msgstr ""
+"Escolha uma rede social para adicionar ao widget. Se necessário, adicione "
+"outras abaixo."
+
+#: configs/epico_social/epico-social-networks.php:22
+msgid ""
+"*1||Facebook,2||YouTube,4||Twitter,5||LinkedIn,6||Flickr,7||FourSquare,8||"
+"Pinterest,9||Instagram,10||Soundcloud,11||Slideshare,12||Snapchat,13||"
+"Twitch,14||RSS,15||Slack"
+msgstr ""
+"*1||Facebook,2||YouTube,4||Twitter,5||LinkedIn,6||Flickr,7||FourSquare,8||"
+"Pinterest,9||Instagram,10||Soundcloud,11||Slideshare,12||Snapchat,13||"
+"Twitch,14||RSS,15||Slack"
+
+#: configs/epico_social/epico-social-networks.php:25
+msgid "Profile link"
+msgstr "Link para o perfil"
+
+#: configs/epico_social/epico-social-networks.php:26
+msgid "Add the link to your profile, including the https://"
+msgstr "Adicione o link para seu perfil, incluindo o https://"
+
+#: configs/epico_social/epico-social-networks.php:28
+msgid "https://www.your-social-network.com/MyProfile"
+msgstr "https://www.sua-rede-social.com/seu-perfil"
+
+#: configs/epico_social/epico-social-title.php:22
+msgid "Follow us!"
+msgstr "Siga nos!"
+
+#: includes/fields/field-image.php:11
+msgid "Select Image"
+msgstr "Selecionar imagem"
+
+#: includes/fields/field-image.php:62 includes/fields/field-image.php:80
+msgid "Change Image"
+msgstr "Alterar imagem"
+
+#: includes/fields/field-onoff.php:13
+msgid "On"
+msgstr "Ligado"
+
+#: includes/fields/field-onoff.php:13
+msgid "Off"
+msgstr "Desligado"
+
+#: includes/settings-epico_global_assets.php:13
+msgid "Épico plugin – Global assets "
+msgstr "Plugin Épico – Recursos globais "
+
+#: includes/settings-epico_global_assets.php:20
+msgid "Settings saved."
+msgstr "Configurações salvas."
+
+#: includes/settings-epico_global_assets.php:24
+msgid "Global plugin asset management"
+msgstr "Gerenciamento global dos recursos do plugin"
+
+#: includes/templates/template-epico_capture_sc.php:204
+#: includes/templates/template-epico_capture_widget.php:349
+msgid "]%20in%20["
+msgstr "]%20em%20["
+
+#: includes/templates/template-epico_capture_widget.php:190
+#: includes/templates/template-epico_capture_widget.php:318
+msgid "Close"
+msgstr "Fechar"
+
+#: includes/templates/template-epico_capture_widget.php:1175
+msgid ""
+"This area is too narrow for this version of the widget. Relocate it to a "
+"wider area or activate the sidebar version."
+msgstr ""
+"Esta área é muito estreita para esta versão do widget. Transfira-o para uma "
+"área mais larga ou ative a versão para a barra lateral."
+
+#: includes/templates/template-epico_capture_widget.php:1175
+msgid "on the widget options"
+msgstr "nas opções do widget"
+
+#: includes/templates/template-epico_capture_widget.php:1175
+msgid ", inside the \"Customization\" tab."
+msgstr ", dentro da aba \"Personalização\"."
+
+#: includes/widgets/widget-epico-social.php:24
+msgid "Épico Social"
+msgstr "Épico Social"
+
+#: includes/widgets/widget-epico-social.php:24
+msgid "Easily add social network buttons."
+msgstr "Adicione facilmente botões para os seus perfis de redes sociais."
+
+#: includes/widgets/widget-epico_author.php:24
+msgid "Épico Author"
+msgstr "Épico Autor"
+
+#: includes/widgets/widget-epico_author.php:24
+msgid "Custom author box widget."
+msgstr "Widget personalizado da caixa do autor."
+
+#: includes/widgets/widget-epico_capture_widget.php:24
+msgid "Épico Capture"
+msgstr "Épico Capture"
+
+#: includes/widgets/widget-epico_capture_widget.php:24
+msgid "Custom e-mail opt-in forms."
+msgstr "Caixas de captura de e-mail personalizadas."
+
+#: includes/widgets/widget-epico_image.php:24
+msgid "Épico Image"
+msgstr "Épico Imagem"
+
+#: includes/widgets/widget-epico_image.php:24
+msgid "Add images to your widget areas."
+msgstr "Adicione imagens às suas áreas de widget."
+
+#: includes/widgets/widget-epico_links.php:24
+msgid "Épico Links"
+msgstr "Épico Links"
+
+#: includes/widgets/widget-epico_links.php:24
+msgid "Create beautiful links for your blog."
+msgstr "Crie fantásticos links especiais para o seu blog."
+
+#: includes/widgets/widget-epico_notice.php:24
+msgid "Épico Notice"
+msgstr "Épico Aviso"
+
+#: includes/widgets/widget-epico_notice.php:24
+msgid "Create a cool notice at the top of your website."
+msgstr "Crie um aviso chamativo no top do seu site."
+
+#: includes/widgets/widget-epico_pages.php:24
+msgid "Épico Pages"
+msgstr "Épico Páginas"
+
+#: includes/widgets/widget-epico_pages.php:24
+msgid "Create beautiful links for your special pages."
+msgstr "Crie belos links para suas páginas especiais."
+
+#: includes/widgets/widget-epico_pop.php:24
+msgid "Épico Pop"
+msgstr "Épico Pop"
+
+#: includes/widgets/widget-epico_pop.php:24
+msgid "Popular posts widget."
+msgstr "Apresente os seus artigos mais populares."
+
+#: vendor/campaign-monitor/cm-form-process.php:65
+msgid ""
+"<p><strong>Error message:</strong> Either the List ID, API key or the e-mail "
+"was not entered.</p>"
+msgstr ""
+"<p><strong>Mensagem de erro: </strong>o ID da lista, a chave de API ou o "
+"email não foram informados. </p>"
+
+#: vendor/campaign-monitor/cm-form-process.php:67
+#: vendor/campaign-monitor/cm-form-process.php:154
+#: vendor/infusionsoft/is-form-process.php:70
+#: vendor/infusionsoft/is-form-process.php:119
+#: vendor/lahar/lahar-form-process.php:68
+#: vendor/lahar/lahar-form-process.php:111
+#: vendor/mailpoet/mailpoet-form-process.php:62
+msgid "Sorry, something went wrong... ಠ_ಠ"
+msgstr "Desculpe, algo deu errado... ಠ_ಠ"
+
+#: vendor/campaign-monitor/cm-form-process.php:67
+#: vendor/infusionsoft/is-form-process.php:70
+msgid "Please check your list ID or API key inside the Épico Capture panel."
+msgstr ""
+"Por favor, verifique o ID da lista ou a chave de API dentro das "
+"configurações do Épico Capture."
+
+#: vendor/campaign-monitor/cm-form-process.php:152
+#: vendor/lahar/lahar-form-process.php:109
+msgid "<p><strong>Error message: </strong>"
+msgstr "<p><strong>Mensagem de erro: </strong>"
+
+#: vendor/campaign-monitor/cm-form-process.php:154
+#: vendor/infusionsoft/is-form-process.php:119
+msgid "Please notify the blog owner."
+msgstr "Por favor, notifique o proprietário do blog."
+
+#: vendor/class-epico-plugin-updater.php:280
+msgid "Épico: "
+msgstr "Épico: "
+
+#: vendor/class-epico-plugin-updater.php:417
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Um erro inesperado ocorreu durante a solicitação de resposta."
+
+#: vendor/class-epico-plugin-updater.php:417
+#: vendor/class-epico-plugin-updater.php:576
+msgid "Try again"
+msgstr "Tentar novamente"
+
+#: vendor/class-epico-plugin-updater.php:452
+msgid "An unknown error occurred."
+msgstr "Ocorreu um erro desconhecido."
+
+#: vendor/class-epico-plugin-updater.php:489
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"O plugin foi atualizado, mas não pôde ser reativado automaticamente. Por "
+"favor, reative-o manualmente."
+
+#: vendor/class-epico-plugin-updater.php:490
+msgid "Plugin reactivated successfully."
+msgstr "O plugin foi reativado com sucesso."
+
+#: vendor/class-epico-plugin-updater.php:513
+msgid " Plugin Updates"
+msgstr " atualizações do plugin"
+
+#: vendor/class-epico-plugin-updater.php:555
+msgid "Username: "
+msgstr "Nome do usuário: "
+
+#: vendor/class-epico-plugin-updater.php:559
+msgid "Email: "
+msgstr "E-mail: "
+
+#: vendor/class-epico-plugin-updater.php:564
+msgid "Key: "
+msgstr "Chave: "
+
+#: vendor/class-epico-plugin-updater.php:570
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>A atualização automática está <span style=\"color:green\">ATIVA</span></p>"
+
+#: vendor/class-epico-plugin-updater.php:572
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Seus dados <span style=\"color:red\">não são válidos</span>, a "
+"atualização automática está <span style=\"color:red\">DESLIGADA</span>.</p>"
+
+#: vendor/class-epico-plugin-updater.php:573
+msgid "Edit Key"
+msgstr "Editar chave"
+
+#: vendor/class-epico-plugin-updater.php:575
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Não foi possível validar os dados de ativação.</p>"
+
+#: vendor/class-epico-plugin-updater.php:579
+msgid "Add Key"
+msgstr "Adicionar chave"
+
+#: vendor/class-epico-plugin-updater.php:676
+msgid "User name"
+msgstr "Nome de usuário"
+
+#: vendor/class-epico-plugin-updater.php:682
+msgid "Email"
+msgstr "E-mail"
+
+#: vendor/class-epico-plugin-updater.php:691
+msgid "Activation Key"
+msgstr "Chave de ativação"
+
+#: vendor/infusionsoft/is-form-process.php:68
+msgid ""
+"<p><strong>Error message:</strong> Either the App ID, API key or the e-mail "
+"was not entered. Please contact the website owner.</p>"
+msgstr ""
+"<p><strong>Mensagem de erro: </strong> Uma das informações necessárias à "
+"captura não foram informadas (ID do App, chave de API ou o email). Entre em "
+"contato com o proprietário do blog.</p>"
+
+#: vendor/infusionsoft/is-form-process.php:117
+msgid "The Infusionsoft ID informed in the Épico Capture is incorrect ."
+msgstr "O ID Infusionsoft informado no Épico Capture está incorreto."
+
+#: vendor/lahar/lahar-form-process.php:66
+msgid ""
+"<p><strong>Error message:</strong> Email not informed or Lahar token not "
+"defined.</p>"
+msgstr ""
+"<p><strong>Mensagem de erro: </strong>o email não foi informado ou o token "
+"da Lahar não foi definido. </p>"
+
+#: vendor/lahar/lahar-form-process.php:68
+#: vendor/lahar/lahar-form-process.php:111
+msgid "Please check your Épico Capture configuration."
+msgstr "Por favor, verifique as configurações do seu Épico Capture."
+
+#: vendor/mailpoet/mailpoet-form-process.php:63
+msgid ""
+"The MailPoet (v3) plugin is disabled and the e-mail could not be saved in "
+"the database. Please contact the website admin to activate the plugin before "
+"trying again."
+msgstr ""
+"O plugin do MailPoet (versão 3) está desativado e o e-mail não pôde ser "
+"salvo no banco de dados. Por favor, entre em contato com o administrador do "
+"blog para que o plugin seja ativado antes que você possa tentar novamente."
+
+#. Plugin Name of the plugin/theme
+msgid "Épico"
+msgstr "Épico"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.uberfacil.com/temas/epico"
+msgstr "https://www.uberfacil.com/temas/epico"
+
+#. Description of the plugin/theme
+msgid ""
+"Includes advanced functionality for the Épico theme and helps you to create "
+"your author platform on the Web with specialized widgets and shortcodes. "
+"Note: this plugin is compatible with the Épico theme only."
+msgstr ""
+"Este plugin complementa o tema Épico com recursos avançados para ajudar a "
+"estabelecer sua autoridade na web, por meio de widgets e shortcodes "
+"especializados. <strong>Atenção!</strong> Este plugin é compatível apenas "
+"com o tema Épico."
+
+#. Author of the plugin/theme
+msgid "Uberfácil"
+msgstr "Uberfácil"
+
+#. Author URI of the plugin/theme
+msgid "https://www.uberfacil.com"
+msgstr "https://www.uberfacil.com"
+
+#~ msgid "Sorry, something went wrong..."
+#~ msgstr "Desculpe, algo deu errado..."
+
+#, fuzzy
+#~| msgid "Tooltip text"
+#~ msgid "Alt text"
+#~ msgstr "Texto da dica"
+
+#~ msgid ""
+#~ "This option works only with the full page width version of the widget. "
+#~ "The video will play in a lightbox after clicking the central capture "
+#~ "icon. After activating, please configure the options below."
+#~ msgstr ""
+#~ "O vídeo será reproduzido em uma janela modal após o clique no ícone "
+#~ "central de captura. Depois de ativar esta opção configure também as "
+#~ "opções abaixo. Observação: esta opção funciona apenas com a opção "
+#~ "\"Largura total da página\" ativada na aba \"Personalização\" do widget."
+
+#~ msgid "Insert below your form action."
+#~ msgstr "Ação do formulário."
+
+#~ msgid "Insert below the unique ID of your list."
+#~ msgstr "ID da sua lista."
+
+#~ msgid "Insert below the unique ID of your group."
+#~ msgstr "ID do seu grupo."
+
+#~ msgid "Insert below a custom redirect URL after your form submission."
+#~ msgstr "URL para redirecionamento após a assinatura."
+
+#~ msgid "Insert below your unique ID."
+#~ msgstr "Identificador único (ID)."
+
+#~ msgid "Insert below your client identification."
+#~ msgstr "Identificador (ID) de cliente."
+
+#~ msgid "Insert below your e-mail field ID."
+#~ msgstr "ID do campo de e-mail."
+
+#~ msgid "Insert below your token."
+#~ msgstr "Seu token."
+
+#~ msgid "Insert below a custom redirect URL for subscription confirmation."
+#~ msgstr "URL para redirecionamento após a confirmação da assinatura."
+
+#~ msgid "Insert below the unique ID of your form."
+#~ msgstr "ID do seu formulário."
+
+#~ msgid "Insert below the tracking code."
+#~ msgstr "Código de rastreamento."
+
+#~ msgid "Insert below the ID of your campaign."
+#~ msgstr "ID da sua campanha."
+
+#~ msgid "Color ovelay effect"
+#~ msgstr "Efeito de sobreposição de cor"
+
+#~ msgid "Ovelay color"
+#~ msgstr "Cor de sobreposição"
+
+#, fuzzy
+#~| msgid "Edit widget colors"
+#~ msgid "Override widget colors"
+#~ msgstr "Editar cores do widget"
+
+#, fuzzy
+#~| msgid ""
+#~| "Enable this to allow the default widget colors to be overriden. Then you "
+#~| "can define custom values using the options below."
+#~ msgid ""
+#~ "Enable this to allow the default theme colors to be overriden. Then you "
+#~ "can define custom values using the options below."
+#~ msgstr ""
+#~ "Ative esta opção para permitir que as cores padrão do widget sejam "
+#~ "sobrescritas. Você poderá então definir novas opções pelos campos abaixo."
+
+#~ msgid ""
+#~ "*0||Select an option,1||MailChimp,2||Aweber,3||MadMimi,4||Campaign "
+#~ "Monitor,5||e-Goi,6||Get Response,7||Mailee.Me,8||Mail Relay,9||Klick "
+#~ "Mail,10||ArpReach,11||ActiveCampaign,12||RD Station,13||Lead Lovers,14||"
+#~ "Sendy,15||Benchmark,16||Mailster,17||TrafficWave,18||InfusionSoft,19||"
+#~ "Google Forms,20||MailPoet,21||Mautic,21||Lahar,999||Custom integration"
+#~ msgstr ""
+#~ "*0||Selecione uma opção,1||MailChimp,2||Aweber,3||MadMimi,4||Campaign "
+#~ "Monitor,5||e-Goi,6||Get Response,7||Mailee.Me,8||Mail Relay,9||Klick "
+#~ "Mail,10||ArpReach,11||ActiveCampaign,12||RD Station,13||Lead Lovers,14||"
+#~ "Sendy,15||Benchmark,16||Mailster,17||TrafficWave,18||InfusionSoft,19||"
+#~ "Google Forms,20||MailPoet,21||Mautic,999||Integração personalizada"

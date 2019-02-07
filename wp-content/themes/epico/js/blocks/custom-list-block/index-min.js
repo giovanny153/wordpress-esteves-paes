@@ -1,0 +1,1 @@
+function addListBlockClassName(s,a){return"core/list"!==a?s:lodash.assign({},s,{supports:lodash.assign({},s.supports,{className:!0})})}wp.hooks.addFilter("blocks.registerBlockType","epico/class-names/list-block",addListBlockClassName);
